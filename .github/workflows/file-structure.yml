@@ -1,13 +1,21 @@
-name: List Files
-
-on:
-  push:
-    branches: [ main ]
+on: [push]
 
 jobs:
-  list-files:
+  tree:
     runs-on: ubuntu-latest
+    name: readme-tree
     steps:
-      - name: Readme Tree
-        uses: RavelloH/readme-tree@v1.1.0
-
+      - uses: actions/checkout@v3
+      - name: Tree
+        uses: RavelloH/readme-tree@latest
+      - name: commit
+        continue-on-error: True
+        run: |
+          git init
+          git pull
+          git config --local user.email "actions@github.com"
+          git config --local user.name "github-actions"
+          git add .
+          git commit -m "[Readme-Tree]`date '+%Y-%m-%d %H:%M:%S'`" || exit
+          git status
+          git push -f
