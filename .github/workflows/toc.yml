@@ -1,22 +1,23 @@
-name: Generate Table of Contents
-
 on:
-  push:
-    branches:
-      - main
+  pull_request:
+    types: [opened, synchronize, reopened, closed]
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+
+name: TOC Generator
 
 jobs:
-  update-readme:
+  toc:
+    if: github.event.pull_request.head.user.id == github.event.pull_request.base.user.id
+    name: TOC Generator
     runs-on: ubuntu-latest
+    timeout-minutes: 3
     steps:
-      - uses: actions/checkout@v2
-      - uses: technote-space/toc-generator@v4
+      - uses: technote-space/load-config-action@v1
         with:
-          path: './'
-      - name: Commit changes
-        run: |
-          git config --global user.email "claytontdm@gmail.com"
-          git config --global user.name "ClaytonTDM"
-          git add .
-          git commit -m "update table of contents"
-          git push
+          CONFIG_FILENAME: workflow-settings.json, workflow-details.json
+          IGNORE_WARNING: 'true'
+      - uses: technote-space/toc-generator@gh-actions
+        with:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
