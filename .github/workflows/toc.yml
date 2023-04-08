@@ -15,8 +15,8 @@ jobs:
           path: './'
       - name: Commit changes
         run: |
-          git config --global user.email "<YOUR EMAIL>"
-          git config --global user.name "<YOUR NAME>"
+          git config --global user.email "claytontdm@gmail.com"
+          git config --global user.name "ClaytonTDM"
           git add .
           git commit -m "update table of contents"
           git push
