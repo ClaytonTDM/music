@@ -1,6 +1,7 @@
 on:
-  pull_request:
-    types: [opened, synchronize, reopened, closed]
+  push:
+    branches:
+      - main
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -9,14 +10,12 @@ name: TOC Generator
 
 jobs:
   toc:
-    if: github.event.pull_request.head.user.id == github.event.pull_request.base.user.id
     name: TOC Generator
     runs-on: ubuntu-latest
     timeout-minutes: 3
     steps:
       - uses: technote-space/load-config-action@v1
         with:
-          CONFIG_FILENAME: workflow-settings.json, workflow-details.json
           IGNORE_WARNING: 'true'
       - uses: technote-space/toc-generator@gh-actions
         with:
