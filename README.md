@@ -3,7 +3,8 @@
 .
 ├── .github
 │   └── workflows
-│       └── file-structure.yml
+│       ├── file-structure.yml
+│       └── static.yml
 ├── Deltarune Soundtrack
 │   ├── Chapter 1
 │   │   ├── A Town Called Hometown.mp3
@@ -227,6 +228,6 @@
 │   └── sans..mp3
 └── tree.bak
 
-9 directories, 216 files
+9 directories, 217 files
 ```
 <!-- readme-tree end -->
