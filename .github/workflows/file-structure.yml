@@ -1,0 +1,13 @@
+name: List Files
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  list-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Readme Tree
+        uses: RavelloH/readme-tree@v1.1.0
+
