@@ -1,8 +1,22 @@
-on: push
-name: TOC Generator
+name: Generate Table of Contents
+
+on:
+  push:
+    branches:
+      - main
+
 jobs:
-  generateTOC:
-    name: TOC Generator
+  update-readme:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - uses: technote-space/toc-generator@v4
+        with:
+          path: './'
+      - name: Commit changes
+        run: |
+          git config --global user.email "<YOUR EMAIL>"
+          git config --global user.name "<YOUR NAME>"
+          git add .
+          git commit -m "update table of contents"
+          git push
