@@ -104,21 +104,17 @@
 │       └── sans..mp3
 ├── Doors Soundtrack
 │   ├── Volume 1
-│   │   ├── AlbumArtSmall.jpg
 │   │   ├── Dawn Of The Doors.mp3
 │   │   ├── Doors (Original Game Soundtrack), Vol. 1.png
 │   │   ├── Elevator Jam.mp3
-│   │   ├── Folder.jpg
 │   │   ├── Guiding Light.mp3
 │   │   ├── Here I Come.mp3
 │   │   └── Unhinged.mp3
 │   └── Volume 2
-│       ├── AlbumArtSmall.jpg
 │       ├── Curious Light.mp3
 │       ├── Doors (Original Game Soundtrack), Vol. 2.png
 │       ├── Elevator Jam Remix.mp3
 │       ├── Elevator Jammed.mp3
-│       ├── Folder.jpg
 │       ├── Jeff's Jingle.mp3
 │       ├── Trailer Theme Remix.mp3
 │       └── Unhinged II.mp3
@@ -228,6 +224,6 @@
 │   └── sans..mp3
 └── tree.bak
 
-9 directories, 216 files
+9 directories, 212 files
 ```
 <!-- readme-tree end -->
