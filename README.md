@@ -136,7 +136,7 @@
 │   ├── But the Earth Refused to Die.mp3
 │   ├── CORE Approach.mp3
 │   ├── CORE.mp3
-│   ├── Can You Really Call This A Hotel I Didn't Receive A Mint On My Pillow.mp3
+│   ├── Can You Really Call This A Hotel, I Didn't Receive A Mint On My Pillow Or Anything.mp3
 │   ├── Chill.mp3
 │   ├── Confession.mp3
 │   ├── Danger Mystery.mp3
@@ -179,7 +179,7 @@
 │   ├── Mysterious Place.mp3
 │   ├── NGAHHH!!.mp3
 │   ├── Nyeh Heh Heh!.mp3
-│   ├── Oh My....mp3
+│   ├── Oh My.mp3
 │   ├── Oh! Dungeon.mp3
 │   ├── Oh! One True Love.mp3
 │   ├── Once Upon A Time.mp3
@@ -213,15 +213,15 @@
 │   ├── Undertale.mp3
 │   ├── Undyne.mp3
 │   ├── Unnecessary Tension.mp3
-│   ├── Uwa!! So HEATS!!.mp3
-│   ├── Uwa!! So Holiday.mp3
-│   ├── Uwa!! So Temperate.mp3
+│   ├── Uwa!! So HEATS!!♫.mp3
+│   ├── Uwa!! So Holiday♫.mp3
+│   ├── Uwa!! So Temperate♫.mp3
 │   ├── Waterfall.mp3
-│   ├── Wrong Enemy.mp3
+│   ├── Wrong Enemy !-.mp3
 │   ├── You Idiot.mp3
 │   ├── Your Best Friend.mp3
 │   ├── Your Best Nightmare.mp3
-│   └── sans..mp3
+│   └── sans.mp3
 └── tree.bak
 
 9 directories, 212 files
