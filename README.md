@@ -137,6 +137,7 @@
 │   │   ├── Rigor Mormist (Normal).flac
 │   │   ├── Watery Graves (Horde).flac
 │   │   └── Watery Graves (Normal).flac
+│   ├── Plants vs. Zombies Soundtrack.jpg
 │   ├── Rigor Mormist.flac
 │   ├── Ultimate Battle.flac
 │   ├── Watery Graves.flac
@@ -247,6 +248,6 @@
 │   └── sans.mp3
 └── tree.bak
 
-11 directories, 233 files
+11 directories, 234 files
 ```
 <!-- readme-tree end -->
