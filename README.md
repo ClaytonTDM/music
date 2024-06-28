@@ -119,7 +119,6 @@
 │       ├── Trailer Theme Remix.mp3
 │       └── Unhinged II.mp3
 ├── Plants vs. Zombies Soundtrack
-│   ├── Album Cover.png
 │   ├── Brainiac Maniac.flac
 │   ├── Cerebrawl.flac
 │   ├── Choose Your Seeds.flac
@@ -248,6 +247,6 @@
 │   └── sans.mp3
 └── tree.bak
 
-11 directories, 234 files
+11 directories, 233 files
 ```
 <!-- readme-tree end -->
