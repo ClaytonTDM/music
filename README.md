@@ -118,6 +118,30 @@
 │       ├── Jeff's Jingle.mp3
 │       ├── Trailer Theme Remix.mp3
 │       └── Unhinged II.mp3
+├── Plants vs. Zombies Soundtrack
+│   ├── Album Cover.png
+│   ├── Brainiac Maniac.flac
+│   ├── Cerebrawl.flac
+│   ├── Choose Your Seeds.flac
+│   ├── Crazy Dave (Intro Theme).flac
+│   ├── Grasswalk.flac
+│   ├── Graze the Roof.flac
+│   ├── Loonboon.flac
+│   ├── Moongrains (Horde).flac
+│   ├── Moongrains.flac
+│   ├── Normal-Horde Variants
+│   │   ├── Grasswalk (Horde).flac
+│   │   ├── Grasswalk (Normal).flac
+│   │   ├── Graze the Roof (Horde).flac
+│   │   ├── Graze the Roof (Normal).flac
+│   │   ├── Rigor Mormist (Horde).flac
+│   │   ├── Rigor Mormist (Normal).flac
+│   │   ├── Watery Graves (Horde).flac
+│   │   └── Watery Graves (Normal).flac
+│   ├── Rigor Mormist.flac
+│   ├── Ultimate Battle.flac
+│   ├── Watery Graves.flac
+│   └── Zen Garden.flac
 ├── README.md
 ├── Undertale Soundtrack
 │   ├── ASGORE.mp3
@@ -224,6 +248,6 @@
 │   └── sans.mp3
 └── tree.bak
 
-9 directories, 212 files
+11 directories, 234 files
 ```
 <!-- readme-tree end -->
