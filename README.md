@@ -5,6 +5,29 @@
 ├── .github
 │   └── workflows
 │       └── file-structure.yml
+├── Celeste Soundtrack
+│   ├── Anxiety.mp3
+│   ├── Awake.mp3
+│   ├── Celeste Original Soundtrack.png
+│   ├── Checking In.mp3
+│   ├── Confronting Myself.mp3
+│   ├── Exhale.mp3
+│   ├── First Steps.mp3
+│   ├── Golden.mp3
+│   ├── Heart of the Mountain.mp3
+│   ├── In the Mirror.mp3
+│   ├── Little Goth.mp3
+│   ├── Madeline and Theo.mp3
+│   ├── My Dearest Friends.mp3
+│   ├── Postcard from Celeste Mountain.mp3
+│   ├── Prologue.mp3
+│   ├── Quiet and Falling.mp3
+│   ├── Reach for the Summit.mp3
+│   ├── Reflection.mp3
+│   ├── Resurrections.mp3
+│   ├── Scattered and Lost.mp3
+│   ├── Spirit of Hospitality.mp3
+│   └── Starjump.mp3
 ├── Deltarune Soundtrack
 │   ├── Chapter 1
 │   │   ├── A Town Called Hometown.mp3
@@ -248,6 +271,6 @@
 │   └── sans.mp3
 └── tree.bak
 
-11 directories, 234 files
+12 directories, 256 files
 ```
 <!-- readme-tree end -->
