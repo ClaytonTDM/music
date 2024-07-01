@@ -27,7 +27,7 @@
 <a href="Celeste Soundtrack/Heart of the Mountain.mp3">Heart of the Mountain.mp3</a><br>
 <a href="Celeste Soundtrack/My Dearest Friends.mp3">My Dearest Friends.mp3</a><br>
 <a href="Celeste Soundtrack/Celeste Original Soundtrack.png">Celeste Original Soundtrack.png</a><br>
-</details>
+</details><hr>
 <details>
 <summary>Deltarune Soundtrack</summary>
 <details>
@@ -74,7 +74,7 @@
 <a href="Deltarune Soundtrack/Chapter 1/Don't Forget.mp3">Don't Forget.mp3</a><br>
 <a href="Deltarune Soundtrack/Chapter 1/Before the Story.mp3">Before the Story.mp3</a><br>
 <a href="Deltarune Soundtrack/Chapter 1/Deltarune Chapter 1 Soundtrack.png">Deltarune Chapter 1 Soundtrack.png</a><br>
-</details>
+</details><hr>
 <details>
 <summary>Chapter 2</summary>
 <a href="Deltarune Soundtrack/Chapter 2/Determination.mp3">Determination.mp3</a><br>
@@ -128,8 +128,8 @@
 <a href="Deltarune Soundtrack/Chapter 2/You Can Always Come Home.mp3">You Can Always Come Home.mp3</a><br>
 <a href="Deltarune Soundtrack/Chapter 2/Until Next Time.mp3">Until Next Time.mp3</a><br>
 <a href="Deltarune Soundtrack/Chapter 2/Deltarune Chapter 2 Soundtrack.png">Deltarune Chapter 2 Soundtrack.png</a><br>
-</details>
-</details>
+</details><hr>
+</details><hr>
 <details>
 <summary>Doors Soundtrack</summary>
 <details>
@@ -140,7 +140,7 @@
 <a href="Doors Soundtrack/Volume 1/Here I Come.mp3">Here I Come.mp3</a><br>
 <a href="Doors Soundtrack/Volume 1/Unhinged.mp3">Unhinged.mp3</a><br>
 <a href="Doors Soundtrack/Volume 1/Doors (Original Game Soundtrack), Vol. 1.png">Doors (Original Game Soundtrack), Vol. 1.png</a><br>
-</details>
+</details><hr>
 <details>
 <summary>Volume 2</summary>
 <a href="Doors Soundtrack/Volume 2/Trailer Theme Remix.mp3">Trailer Theme Remix.mp3</a><br>
@@ -150,116 +150,116 @@
 <a href="Doors Soundtrack/Volume 2/Unhinged II.mp3">Unhinged II.mp3</a><br>
 <a href="Doors Soundtrack/Volume 2/Elevator Jammed.mp3">Elevator Jammed.mp3</a><br>
 <a href="Doors Soundtrack/Volume 2/Doors (Original Game Soundtrack), Vol. 2.png">Doors (Original Game Soundtrack), Vol. 2.png</a><br>
-</details>
-</details>
+</details><hr>
+</details><hr>
 <details>
 <summary>OneShot Solstice Soundtrack</summary>
-<a href="OneShot Solstice Soundtrack/Prelude.flac">Prelude.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Deep Mines.flac">Deep Mines.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Vestige.flac">Vestige.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Sonder (extended).flac">Sonder (extended).flac</a><br>
-<a href="OneShot Solstice Soundtrack/Out of Protocol.flac">Out of Protocol.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Panic.flac">Panic.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Collapse.flac">Collapse.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Navigate (extended).flac">Navigate (extended).flac</a><br>
-<a href="OneShot Solstice Soundtrack/The FIrst Universe.flac">The FIrst Universe.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Aviator.flac">Aviator.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Eleventh hour.flac">Eleventh hour.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Rue.flac">Rue.flac</a><br>
-<a href="OneShot Solstice Soundtrack/The Author.flac">The Author.flac</a><br>
-<a href="OneShot Solstice Soundtrack/The World Machine.flac">The World Machine.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Encounter.flac">Encounter.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Solstice.flac">Solstice.flac</a><br>
 <a href="OneShot Solstice Soundtrack/Sunrise.flac">Sunrise.flac</a><br>
-<a href="OneShot Solstice Soundtrack/In Memory.flac">In Memory.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Epilogue.flac">Epilogue.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Homesick.flac">Homesick.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Inventory.flac">Inventory.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Simpler Secrets.flac">Simpler Secrets.flac</a><br>
-<a href="OneShot Solstice Soundtrack/First Flight.flac">First Flight.flac</a><br>
-<a href="OneShot Solstice Soundtrack/The Simulation.flac">The Simulation.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Ghost in the Machine.flac">Ghost in the Machine.flac</a><br>
+<a href="OneShot Solstice Soundtrack/Aviator.flac">Aviator.flac</a><br>
+<a href="OneShot Solstice Soundtrack/The World Machine.flac">The World Machine.flac</a><br>
+<a href="OneShot Solstice Soundtrack/Deep Mines.flac">Deep Mines.flac</a><br>
+<a href="OneShot Solstice Soundtrack/Rue.flac">Rue.flac</a><br>
 <a href="OneShot Solstice Soundtrack/Happily Ever After.flac">Happily Ever After.flac</a><br>
+<a href="OneShot Solstice Soundtrack/The FIrst Universe.flac">The FIrst Universe.flac</a><br>
+<a href="OneShot Solstice Soundtrack/Eleventh hour.flac">Eleventh hour.flac</a><br>
+<a href="OneShot Solstice Soundtrack/Panic.flac">Panic.flac</a><br>
+<a href="OneShot Solstice Soundtrack/The Author.flac">The Author.flac</a><br>
+<a href="OneShot Solstice Soundtrack/First Flight.flac">First Flight.flac</a><br>
+<a href="OneShot Solstice Soundtrack/Ghost in the Machine.flac">Ghost in the Machine.flac</a><br>
+<a href="OneShot Solstice Soundtrack/Solstice.flac">Solstice.flac</a><br>
+<a href="OneShot Solstice Soundtrack/Encounter.flac">Encounter.flac</a><br>
+<a href="OneShot Solstice Soundtrack/Navigate (extended).flac">Navigate (extended).flac</a><br>
+<a href="OneShot Solstice Soundtrack/Epilogue.flac">Epilogue.flac</a><br>
+<a href="OneShot Solstice Soundtrack/In Memory.flac">In Memory.flac</a><br>
+<a href="OneShot Solstice Soundtrack/Inventory.flac">Inventory.flac</a><br>
+<a href="OneShot Solstice Soundtrack/Collapse.flac">Collapse.flac</a><br>
+<a href="OneShot Solstice Soundtrack/Vestige.flac">Vestige.flac</a><br>
+<a href="OneShot Solstice Soundtrack/Prelude.flac">Prelude.flac</a><br>
+<a href="OneShot Solstice Soundtrack/The Simulation.flac">The Simulation.flac</a><br>
 <a href="OneShot Solstice Soundtrack/Niko's Theme.flac">Niko's Theme.flac</a><br>
+<a href="OneShot Solstice Soundtrack/Out of Protocol.flac">Out of Protocol.flac</a><br>
+<a href="OneShot Solstice Soundtrack/Simpler Secrets.flac">Simpler Secrets.flac</a><br>
+<a href="OneShot Solstice Soundtrack/Homesick.flac">Homesick.flac</a><br>
+<a href="OneShot Solstice Soundtrack/Sonder (extended).flac">Sonder (extended).flac</a><br>
 <a href="OneShot Solstice Soundtrack/Happily Ever After.jpg">Happily Ever After.jpg</a><br>
 <a href="OneShot Solstice Soundtrack/OneShot Solstice Soundtrack.png">OneShot Solstice Soundtrack.png</a><br>
-</details>
+</details><hr>
 <details>
 <summary>OneShot Soundtrack</summary>
-<a href="OneShot Soundtrack/My Burden Is Light.flac">My Burden Is Light.flac</a><br>
-<a href="OneShot Soundtrack/Someplace I Know.flac">Someplace I Know.flac</a><br>
-<a href="OneShot Soundtrack/Puzzle Solved.flac">Puzzle Solved.flac</a><br>
-<a href="OneShot Soundtrack/Phosphor.flac">Phosphor.flac</a><br>
-<a href="OneShot Soundtrack/The Prophecy.flac">The Prophecy.flac</a><br>
-<a href="OneShot Soundtrack/Abandoned Factory.flac">Abandoned Factory.flac</a><br>
-<a href="OneShot Soundtrack/Silverpoint.flac">Silverpoint.flac</a><br>
-<a href="OneShot Soundtrack/A God's Machine.flac">A God's Machine.flac</a><br>
-<a href="OneShot Soundtrack/Rowbot.flac">Rowbot.flac</a><br>
-<a href="OneShot Soundtrack/Geothermal.flac">Geothermal.flac</a><br>
-<a href="OneShot Soundtrack/Distant.flac">Distant.flac</a><br>
-<a href="OneShot Soundtrack/Into The Light.flac">Into The Light.flac</a><br>
-<a href="OneShot Soundtrack/Self Contained Universe (Reprise).flac">Self Contained Universe (Reprise).flac</a><br>
-<a href="OneShot Soundtrack/Navigate.flac">Navigate.flac</a><br>
-<a href="OneShot Soundtrack/To Sleep.flac">To Sleep.flac</a><br>
-<a href="OneShot Soundtrack/To Dream.flac">To Dream.flac</a><br>
-<a href="OneShot Soundtrack/Flooded Ruins.flac">Flooded Ruins.flac</a><br>
-<a href="OneShot Soundtrack/Alula.flac">Alula.flac</a><br>
-<a href="OneShot Soundtrack/Children of the Ruins.flac">Children of the Ruins.flac</a><br>
-<a href="OneShot Soundtrack/Ram.flac">Ram.flac</a><br>
-<a href="OneShot Soundtrack/Pretty Bad.flac">Pretty Bad.flac</a><br>
-<a href="OneShot Soundtrack/On Little Cat Feet.flac">On Little Cat Feet.flac</a><br>
-<a href="OneShot Soundtrack/Indoors.flac">Indoors.flac</a><br>
-<a href="OneShot Soundtrack/Dark Stairwell.flac">Dark Stairwell.flac</a><br>
-<a href="OneShot Soundtrack/Sonder.flac">Sonder.flac</a><br>
-<a href="OneShot Soundtrack/Pretty nice day, huh....flac">Pretty nice day, huh....flac</a><br>
-<a href="OneShot Soundtrack/On Little Cat Feet (ground).flac">On Little Cat Feet (ground).flac</a><br>
-<a href="OneShot Soundtrack/Library Stroll.flac">Library Stroll.flac</a><br>
-<a href="OneShot Soundtrack/Simple Secrets.flac">Simple Secrets.flac</a><br>
-<a href="OneShot Soundtrack/Factory.flac">Factory.flac</a><br>
-<a href="OneShot Soundtrack/Library Nap.flac">Library Nap.flac</a><br>
-<a href="OneShot Soundtrack/The Tower.flac">The Tower.flac</a><br>
-<a href="OneShot Soundtrack/Distant water.flac">Distant water.flac</a><br>
-<a href="OneShot Soundtrack/Niko and the World Machine.flac">Niko and the World Machine.flac</a><br>
-<a href="OneShot Soundtrack/I'm Here.flac">I'm Here.flac</a><br>
-<a href="OneShot Soundtrack/Pretty.flac">Pretty.flac</a><br>
-<a href="OneShot Soundtrack/Sun.flac">Sun.flac</a><br>
-<a href="OneShot Soundtrack/Self Contained Universe.flac">Self Contained Universe.flac</a><br>
-<a href="OneShot Soundtrack/Thanks For Everything.flac">Thanks For Everything.flac</a><br>
-<a href="OneShot Soundtrack/OneShot Trailer.flac">OneShot Trailer.flac</a><br>
-<a href="OneShot Soundtrack/Countdown.flac">Countdown.flac</a><br>
 <a href="OneShot Soundtrack/IT'S TIME TO FIGHT CRIME.flac">IT'S TIME TO FIGHT CRIME.flac</a><br>
+<a href="OneShot Soundtrack/The Tower.flac">The Tower.flac</a><br>
+<a href="OneShot Soundtrack/Ram.flac">Ram.flac</a><br>
+<a href="OneShot Soundtrack/Factory.flac">Factory.flac</a><br>
+<a href="OneShot Soundtrack/Thanks For Everything.flac">Thanks For Everything.flac</a><br>
+<a href="OneShot Soundtrack/Distant.flac">Distant.flac</a><br>
+<a href="OneShot Soundtrack/Library Stroll.flac">Library Stroll.flac</a><br>
+<a href="OneShot Soundtrack/On Little Cat Feet.flac">On Little Cat Feet.flac</a><br>
+<a href="OneShot Soundtrack/Alula.flac">Alula.flac</a><br>
+<a href="OneShot Soundtrack/Into The Light.flac">Into The Light.flac</a><br>
+<a href="OneShot Soundtrack/Silverpoint.flac">Silverpoint.flac</a><br>
+<a href="OneShot Soundtrack/Pretty.flac">Pretty.flac</a><br>
+<a href="OneShot Soundtrack/Rowbot.flac">Rowbot.flac</a><br>
+<a href="OneShot Soundtrack/Sonder.flac">Sonder.flac</a><br>
+<a href="OneShot Soundtrack/On Little Cat Feet (ground).flac">On Little Cat Feet (ground).flac</a><br>
+<a href="OneShot Soundtrack/Pretty nice day, huh....flac">Pretty nice day, huh....flac</a><br>
+<a href="OneShot Soundtrack/Phosphor.flac">Phosphor.flac</a><br>
+<a href="OneShot Soundtrack/Countdown.flac">Countdown.flac</a><br>
+<a href="OneShot Soundtrack/Dark Stairwell.flac">Dark Stairwell.flac</a><br>
+<a href="OneShot Soundtrack/To Sleep.flac">To Sleep.flac</a><br>
+<a href="OneShot Soundtrack/Self Contained Universe.flac">Self Contained Universe.flac</a><br>
+<a href="OneShot Soundtrack/Sun.flac">Sun.flac</a><br>
+<a href="OneShot Soundtrack/Flooded Ruins.flac">Flooded Ruins.flac</a><br>
+<a href="OneShot Soundtrack/Simple Secrets.flac">Simple Secrets.flac</a><br>
+<a href="OneShot Soundtrack/Geothermal.flac">Geothermal.flac</a><br>
+<a href="OneShot Soundtrack/Library Nap.flac">Library Nap.flac</a><br>
+<a href="OneShot Soundtrack/Distant water.flac">Distant water.flac</a><br>
+<a href="OneShot Soundtrack/My Burden Is Light.flac">My Burden Is Light.flac</a><br>
+<a href="OneShot Soundtrack/Children of the Ruins.flac">Children of the Ruins.flac</a><br>
+<a href="OneShot Soundtrack/I'm Here.flac">I'm Here.flac</a><br>
+<a href="OneShot Soundtrack/OneShot Trailer.flac">OneShot Trailer.flac</a><br>
+<a href="OneShot Soundtrack/The Prophecy.flac">The Prophecy.flac</a><br>
+<a href="OneShot Soundtrack/Navigate.flac">Navigate.flac</a><br>
+<a href="OneShot Soundtrack/Niko and the World Machine.flac">Niko and the World Machine.flac</a><br>
+<a href="OneShot Soundtrack/To Dream.flac">To Dream.flac</a><br>
+<a href="OneShot Soundtrack/Abandoned Factory.flac">Abandoned Factory.flac</a><br>
+<a href="OneShot Soundtrack/Pretty Bad.flac">Pretty Bad.flac</a><br>
+<a href="OneShot Soundtrack/Puzzle Solved.flac">Puzzle Solved.flac</a><br>
+<a href="OneShot Soundtrack/Indoors.flac">Indoors.flac</a><br>
+<a href="OneShot Soundtrack/Someplace I Know.flac">Someplace I Know.flac</a><br>
+<a href="OneShot Soundtrack/A God's Machine.flac">A God's Machine.flac</a><br>
+<a href="OneShot Soundtrack/Self Contained Universe (Reprise).flac">Self Contained Universe (Reprise).flac</a><br>
 <a href="OneShot Soundtrack/IT'S TIME TO FIGHT CRIME.jpg">IT'S TIME TO FIGHT CRIME.jpg</a><br>
 <a href="OneShot Soundtrack/OneShot Soundtrack.png">OneShot Soundtrack.png</a><br>
 <a href="OneShot Soundtrack/Ram.jpg">Ram.jpg</a><br>
-</details>
+</details><hr>
 <details>
 <summary>Plants vs. Zombies Soundtrack</summary>
 <details>
 <summary>Normal-Horde Variants</summary>
-<a href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Grasswalk (Normal).flac">Grasswalk (Normal).flac</a><br>
-<a href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Grasswalk (Horde).flac">Grasswalk (Horde).flac</a><br>
-<a href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Watery Graves (Normal).flac">Watery Graves (Normal).flac</a><br>
-<a href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Watery Graves (Horde).flac">Watery Graves (Horde).flac</a><br>
-<a href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Rigor Mormist (Normal).flac">Rigor Mormist (Normal).flac</a><br>
 <a href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Rigor Mormist (Horde).flac">Rigor Mormist (Horde).flac</a><br>
 <a href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Graze the Roof (Horde).flac">Graze the Roof (Horde).flac</a><br>
 <a href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Graze the Roof (Normal).flac">Graze the Roof (Normal).flac</a><br>
-</details>
-<a href="Plants vs. Zombies Soundtrack/Crazy Dave (Intro Theme).flac">Crazy Dave (Intro Theme).flac</a><br>
+<a href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Watery Graves (Horde).flac">Watery Graves (Horde).flac</a><br>
+<a href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Watery Graves (Normal).flac">Watery Graves (Normal).flac</a><br>
+<a href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Grasswalk (Horde).flac">Grasswalk (Horde).flac</a><br>
+<a href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Grasswalk (Normal).flac">Grasswalk (Normal).flac</a><br>
+<a href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Rigor Mormist (Normal).flac">Rigor Mormist (Normal).flac</a><br>
+</details><hr>
 <a href="Plants vs. Zombies Soundtrack/Choose Your Seeds.flac">Choose Your Seeds.flac</a><br>
-<a href="Plants vs. Zombies Soundtrack/Grasswalk.flac">Grasswalk.flac</a><br>
-<a href="Plants vs. Zombies Soundtrack/Moongrains.flac">Moongrains.flac</a><br>
-<a href="Plants vs. Zombies Soundtrack/Moongrains (Horde).flac">Moongrains (Horde).flac</a><br>
+<a href="Plants vs. Zombies Soundtrack/Zen Garden.flac">Zen Garden.flac</a><br>
 <a href="Plants vs. Zombies Soundtrack/Watery Graves.flac">Watery Graves.flac</a><br>
-<a href="Plants vs. Zombies Soundtrack/Rigor Mormist.flac">Rigor Mormist.flac</a><br>
 <a href="Plants vs. Zombies Soundtrack/Graze the Roof.flac">Graze the Roof.flac</a><br>
 <a href="Plants vs. Zombies Soundtrack/Loonboon.flac">Loonboon.flac</a><br>
+<a href="Plants vs. Zombies Soundtrack/Grasswalk.flac">Grasswalk.flac</a><br>
+<a href="Plants vs. Zombies Soundtrack/Rigor Mormist.flac">Rigor Mormist.flac</a><br>
 <a href="Plants vs. Zombies Soundtrack/Cerebrawl.flac">Cerebrawl.flac</a><br>
-<a href="Plants vs. Zombies Soundtrack/Zen Garden.flac">Zen Garden.flac</a><br>
 <a href="Plants vs. Zombies Soundtrack/Ultimate Battle.flac">Ultimate Battle.flac</a><br>
+<a href="Plants vs. Zombies Soundtrack/Moongrains (Horde).flac">Moongrains (Horde).flac</a><br>
+<a href="Plants vs. Zombies Soundtrack/Crazy Dave (Intro Theme).flac">Crazy Dave (Intro Theme).flac</a><br>
+<a href="Plants vs. Zombies Soundtrack/Moongrains.flac">Moongrains.flac</a><br>
 <a href="Plants vs. Zombies Soundtrack/Brainiac Maniac.flac">Brainiac Maniac.flac</a><br>
 <a href="Plants vs. Zombies Soundtrack/Plants vs. Zombies Soundtrack.jpg">Plants vs. Zombies Soundtrack.jpg</a><br>
-</details>
+</details><hr>
 <details>
 <summary>Undertale Soundtrack</summary>
 <a href="Undertale Soundtrack/Once Upon A Time.mp3">Once Upon A Time.mp3</a><br>
@@ -364,7 +364,7 @@
 <a href="Undertale Soundtrack/Megalovania.mp3">Megalovania.mp3</a><br>
 <a href="Undertale Soundtrack/Good Night.mp3">Good Night.mp3</a><br>
 <a href="Undertale Soundtrack/Undertale Soundtrack.png">Undertale Soundtrack.png</a><br>
-</details>
+</details><hr>
 <a href="README.md">README.md</a><br>
 <a href="_config.yml">_config.yml</a><br>
 <!-- files-end -->
