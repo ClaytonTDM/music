@@ -30,6 +30,6 @@ jobs:
                   git config --global user.email 'github-actions[bot]@users.noreply.github.com'
                   git add README.md
                   git commit -m 'Update README with file structure'
-                  git push
+                  git push --set-upstream https://claytontdm:${{ secrets.ACCESS_TOKEN }}@github.com/music.git main
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
