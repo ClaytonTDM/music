@@ -1,8 +1,7 @@
 > 🛈 **Note**
-> 
+>
 > Deltarune music is compressed. When a higher quality version is found, I'll upload it here.
 
-### [**Download**](https://github.com/ClaytonTDM/music/archive/refs/heads/main.zip)
 <!-- readme-tree start -->
 ```
 .
