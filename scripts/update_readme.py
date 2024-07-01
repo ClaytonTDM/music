@@ -30,7 +30,7 @@ def generate_file_structure(base_path, path=""):
 
     if os.path.isdir(full_path):
         if path:  # Avoid root directory
-            result.append(f"<details>\n<summary>{os.path.basename(path)}</summary>")
+            result.append(f"<details>\n<hr>\n<summary>{os.path.basename(path)}</summary>")
         # Directories first
         directories = sorted(
             [
@@ -39,9 +39,10 @@ def generate_file_structure(base_path, path=""):
                 if os.path.isdir(os.path.join(full_path, d))
             ]
         )
-        total_items = len(
-            directories
-        )  # Initialize total_items with number of directories
+        for directory in directories:
+            item_path = os.path.join(path, directory)
+            result.extend(generate_file_structure(base_path, item_path))
+        # Then files
         files = [
             f
             for f in os.listdir(full_path)
@@ -53,24 +54,26 @@ def generate_file_structure(base_path, path=""):
         other_files = [
             f for f in files if os.path.splitext(f)[1].lower() not in AUDIO_EXTENSIONS
         ]
-        total_items += len(audio_files) + len(
-            other_files
-        )  # Add number of files to total_items
 
-        # Process directories and files...
-        # (Keep the existing logic for processing directories and files)
+        # Sort audio files by track number
+        audio_files_with_tracks = [
+            (f, get_track_number(os.path.join(full_path, f))) for f in audio_files
+        ]
+        audio_files_with_tracks.sort(
+            key=lambda x: (x[1] is None, x[1])
+        )  # None values should be at the end
+
+        for file, track in audio_files_with_tracks:
+            item_path = os.path.join(path, file)
+            result.append(f'<a href="{item_path}">{file}</a><br>')
+
+        # Add other files
+        for file in sorted(other_files):
+            item_path = os.path.join(path, file)
+            result.append(f'<a href="{item_path}">{file}</a><br>')
 
         if path:  # Avoid root directory
-            # Check if the current item is not the last one before appending "</details><hr>"
-            if (
-                result[-1] != f"<details>\n<summary>{os.path.basename(path)}</summary>"
-            ):  # Check if there are items added within <details>
-                result.append("</details>")
-                if not (
-                    result[-1].startswith("<details>") or result[-1] == "</details>"
-                ):  # Avoid appending <hr> if the next is <details> or it's the end
-                    result.append("<hr>")
-
+            result.append("</details><hr>")
     else:
         result.append(f'<a href="{path}">{os.path.basename(path)}</a><br>')
     return result
