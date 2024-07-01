@@ -11,8 +11,11 @@ def get_track_number(file_path):
         if audio:
             track_number = audio.tags.get("TRCK") or audio.tags.get("TRACKNUMBER")
             if track_number:
-                # Handle cases like "1/10" or "01" -> extract only the first part and convert to int
-                return int(track_number.text[0].split("/")[0])
+                # Ensure track_number is the first item if it's a list
+                if isinstance(track_number, list):
+                    track_number = track_number[0]
+                    # Now safely access .text attribute
+                    return int(track_number.text[0].split("/")[0])
     except Exception as e:
         print(f"Error reading metadata from {file_path}: {e}")
     return None
