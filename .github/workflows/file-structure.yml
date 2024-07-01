@@ -26,10 +26,10 @@ jobs:
 
             - name: Commit and push changes
               run: |
-                  git config --global user.name 'github-actions[bot]'
-                  git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+                  git config --global user.name 'ClaytonTDM'
+                  git config --global user.email 'claytontdm@gmail.com'
                   git add README.md
                   git commit -m 'Update README with file structure'
-                  git push --set-upstream https://claytontdm:${{ secrets.ACCESS_TOKEN }}@github.com/music.git main
+                  git push
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
