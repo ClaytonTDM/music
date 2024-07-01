@@ -30,7 +30,7 @@ def generate_file_structure(base_path, path=""):
 
     if os.path.isdir(full_path):
         if path:  # Avoid root directory
-            result.append(f"<details>\n<summary>{os.path.basename(path)}</summary><hr>")
+            result.append(f"<details>\n<hr>\n<summary>{os.path.basename(path)}</summary>")
         # Directories first
         directories = sorted(
             [
