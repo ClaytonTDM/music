@@ -4,462 +4,365 @@
 
 <!-- files -->
 <details>
-<summary>.</summary>
-<details>
-<summary>.git</summary>
-[Download](.git/FETCH_HEAD)
-[Download](.git/HEAD)
-<details>
-<summary>branches</summary>
-</details>
-[Download](.git/config)
-[Download](.git/description)
-<details>
-<summary>hooks</summary>
-[Download](.git/hooks/applypatch-msg.sample)
-[Download](.git/hooks/commit-msg.sample)
-[Download](.git/hooks/fsmonitor-watchman.sample)
-[Download](.git/hooks/post-update.sample)
-[Download](.git/hooks/pre-applypatch.sample)
-[Download](.git/hooks/pre-commit.sample)
-[Download](.git/hooks/pre-merge-commit.sample)
-[Download](.git/hooks/pre-push.sample)
-[Download](.git/hooks/pre-rebase.sample)
-[Download](.git/hooks/pre-receive.sample)
-[Download](.git/hooks/prepare-commit-msg.sample)
-[Download](.git/hooks/push-to-checkout.sample)
-[Download](.git/hooks/sendemail-validate.sample)
-[Download](.git/hooks/update.sample)
-</details>
-[Download](.git/index)
-<details>
-<summary>info</summary>
-[Download](.git/info/exclude)
-</details>
-<details>
-<summary>logs</summary>
-[Download](.git/logs/HEAD)
-<details>
-<summary>refs</summary>
-<details>
-<summary>heads</summary>
-[Download](.git/logs/refs/heads/main)
-</details>
-<details>
-<summary>remotes</summary>
-<details>
-<summary>origin</summary>
-[Download](.git/logs/refs/remotes/origin/main)
-</details>
-</details>
-</details>
-</details>
-<details>
-<summary>objects</summary>
-<details>
-<summary>info</summary>
-</details>
-<details>
-<summary>pack</summary>
-[Download](.git/objects/pack/pack-aa7a998fcfddfe30b83bb96e98114f1274cead29.idx)
-[Download](.git/objects/pack/pack-aa7a998fcfddfe30b83bb96e98114f1274cead29.pack)
-[Download](.git/objects/pack/pack-aa7a998fcfddfe30b83bb96e98114f1274cead29.rev)
-</details>
-</details>
-<details>
-<summary>refs</summary>
-<details>
-<summary>heads</summary>
-[Download](.git/refs/heads/main)
-</details>
-<details>
-<summary>remotes</summary>
-<details>
-<summary>origin</summary>
-[Download](.git/refs/remotes/origin/main)
-</details>
-</details>
-<details>
-<summary>tags</summary>
-</details>
-</details>
-[Download](.git/shallow)
-</details>
-<details>
-<summary>.github</summary>
-<details>
-<summary>workflows</summary>
-[Download](.github/workflows/file-structure.yml)
-[Download](.github/workflows/jekyll-gh-pages.yml)
-</details>
-</details>
-<details>
 <summary>Celeste Soundtrack</summary>
-[Download](Celeste Soundtrack/Anxiety.mp3)
-[Download](Celeste Soundtrack/Awake.mp3)
-[Download](Celeste Soundtrack/Celeste Original Soundtrack.png)
-[Download](Celeste Soundtrack/Checking In.mp3)
-[Download](Celeste Soundtrack/Confronting Myself.mp3)
-[Download](Celeste Soundtrack/Exhale.mp3)
-[Download](Celeste Soundtrack/First Steps.mp3)
-[Download](Celeste Soundtrack/Golden.mp3)
-[Download](Celeste Soundtrack/Heart of the Mountain.mp3)
-[Download](Celeste Soundtrack/In the Mirror.mp3)
-[Download](Celeste Soundtrack/Little Goth.mp3)
-[Download](Celeste Soundtrack/Madeline and Theo.mp3)
-[Download](Celeste Soundtrack/My Dearest Friends.mp3)
-[Download](Celeste Soundtrack/Postcard from Celeste Mountain.mp3)
-[Download](Celeste Soundtrack/Prologue.mp3)
-[Download](Celeste Soundtrack/Quiet and Falling.mp3)
-[Download](Celeste Soundtrack/Reach for the Summit.mp3)
-[Download](Celeste Soundtrack/Reflection.mp3)
-[Download](Celeste Soundtrack/Resurrections.mp3)
-[Download](Celeste Soundtrack/Scattered and Lost.mp3)
-[Download](Celeste Soundtrack/Spirit of Hospitality.mp3)
-[Download](Celeste Soundtrack/Starjump.mp3)
+<a href="Celeste Soundtrack/Anxiety.mp3">Anxiety.mp3</a>
+<a href="Celeste Soundtrack/Awake.mp3">Awake.mp3</a>
+<a href="Celeste Soundtrack/Celeste Original Soundtrack.png">Celeste Original Soundtrack.png</a>
+<a href="Celeste Soundtrack/Checking In.mp3">Checking In.mp3</a>
+<a href="Celeste Soundtrack/Confronting Myself.mp3">Confronting Myself.mp3</a>
+<a href="Celeste Soundtrack/Exhale.mp3">Exhale.mp3</a>
+<a href="Celeste Soundtrack/First Steps.mp3">First Steps.mp3</a>
+<a href="Celeste Soundtrack/Golden.mp3">Golden.mp3</a>
+<a href="Celeste Soundtrack/Heart of the Mountain.mp3">Heart of the Mountain.mp3</a>
+<a href="Celeste Soundtrack/In the Mirror.mp3">In the Mirror.mp3</a>
+<a href="Celeste Soundtrack/Little Goth.mp3">Little Goth.mp3</a>
+<a href="Celeste Soundtrack/Madeline and Theo.mp3">Madeline and Theo.mp3</a>
+<a href="Celeste Soundtrack/My Dearest Friends.mp3">My Dearest Friends.mp3</a>
+<a href="Celeste Soundtrack/Postcard from Celeste Mountain.mp3">Postcard from Celeste Mountain.mp3</a>
+<a href="Celeste Soundtrack/Prologue.mp3">Prologue.mp3</a>
+<a href="Celeste Soundtrack/Quiet and Falling.mp3">Quiet and Falling.mp3</a>
+<a href="Celeste Soundtrack/Reach for the Summit.mp3">Reach for the Summit.mp3</a>
+<a href="Celeste Soundtrack/Reflection.mp3">Reflection.mp3</a>
+<a href="Celeste Soundtrack/Resurrections.mp3">Resurrections.mp3</a>
+<a href="Celeste Soundtrack/Scattered and Lost.mp3">Scattered and Lost.mp3</a>
+<a href="Celeste Soundtrack/Spirit of Hospitality.mp3">Spirit of Hospitality.mp3</a>
+<a href="Celeste Soundtrack/Starjump.mp3">Starjump.mp3</a>
 </details>
 <details>
 <summary>Deltarune Soundtrack</summary>
 <details>
 <summary>Chapter 1</summary>
-[Download](Deltarune Soundtrack/Chapter 1/A Town Called Hometown.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/ANOTHER HIM.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/April 2012.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Basement.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Before the Story.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Beginning.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Card Castle.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Chaos King.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Checker Dance.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Cliffs.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Darkness Falls.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Deltarune Chapter 1 Soundtrack.png)
-[Download](Deltarune Soundtrack/Chapter 1/Dogcheck.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Don't Forget.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Empty Town.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Fanfare (From Rose of Winter).mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Field of Hopes and Dreams.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Friendship.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Gallery.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Hip Shop.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/I'm Very Bad.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Imminent Death.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Lancer.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Lantern.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Quiet Autumn.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Rouxls Kaard.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Rude Buster.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Scarlet Forest.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/School.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Susie.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/THE HOLY.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/THE WORLD REVOLVING.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/The Chase.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/The Circus.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/The Door.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/The Legend.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Thrash Machine.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Vs. Lancer.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Vs. Susie.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Weird Birds.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/You Can Always Come Home.mp3)
-[Download](Deltarune Soundtrack/Chapter 1/Your Power.mp3)
+<a href="Deltarune Soundtrack/Chapter 1/A Town Called Hometown.mp3">A Town Called Hometown.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/ANOTHER HIM.mp3">ANOTHER HIM.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/April 2012.mp3">April 2012.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Basement.mp3">Basement.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Before the Story.mp3">Before the Story.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Beginning.mp3">Beginning.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Card Castle.mp3">Card Castle.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Chaos King.mp3">Chaos King.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Checker Dance.mp3">Checker Dance.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Cliffs.mp3">Cliffs.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Darkness Falls.mp3">Darkness Falls.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Deltarune Chapter 1 Soundtrack.png">Deltarune Chapter 1 Soundtrack.png</a>
+<a href="Deltarune Soundtrack/Chapter 1/Dogcheck.mp3">Dogcheck.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Don't Forget.mp3">Don't Forget.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Empty Town.mp3">Empty Town.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Fanfare (From Rose of Winter).mp3">Fanfare (From Rose of Winter).mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Field of Hopes and Dreams.mp3">Field of Hopes and Dreams.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Friendship.mp3">Friendship.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Gallery.mp3">Gallery.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Hip Shop.mp3">Hip Shop.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/I'm Very Bad.mp3">I'm Very Bad.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Imminent Death.mp3">Imminent Death.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Lancer.mp3">Lancer.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Lantern.mp3">Lantern.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Quiet Autumn.mp3">Quiet Autumn.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Rouxls Kaard.mp3">Rouxls Kaard.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Rude Buster.mp3">Rude Buster.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Scarlet Forest.mp3">Scarlet Forest.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/School.mp3">School.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Susie.mp3">Susie.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/THE HOLY.mp3">THE HOLY.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/THE WORLD REVOLVING.mp3">THE WORLD REVOLVING.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/The Chase.mp3">The Chase.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/The Circus.mp3">The Circus.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/The Door.mp3">The Door.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/The Legend.mp3">The Legend.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Thrash Machine.mp3">Thrash Machine.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Vs. Lancer.mp3">Vs. Lancer.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Vs. Susie.mp3">Vs. Susie.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Weird Birds.mp3">Weird Birds.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/You Can Always Come Home.mp3">You Can Always Come Home.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 1/Your Power.mp3">Your Power.mp3</a>
 </details>
 <details>
 <summary>Chapter 2</summary>
-[Download](Deltarune Soundtrack/Chapter 2/A CYBER'S WORLD.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/A Real Boy!.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/A Simple Diversion.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/A-pplause for Berdly.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Acid Tunnel of Love.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Almost To The Guys!.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Attack of the Killer Queen.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/BIG SHOT.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Berdly Battle (Really Tense Heartbeat Momento Version).mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Berdly.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Bluebird of Misfortune.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Chill Jailbreak Alarm to Study And Relax To.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Cool Beat.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Cool Mixtape.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Cyber Battle (Solo).mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Cyber Battle.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Deal Gone Wrong.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Deltarune Chapter 2 Soundtrack.png)
-[Download](Deltarune Soundtrack/Chapter 2/Determination.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Dialtone.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Digital Roots.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Elegant Enterance.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Faint Courage (Game Over).mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Faint Glow.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Ferris Wheel.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Giga Size.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Girl Next Door.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/HEY EVERY !.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Holiday Studio.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/It's Pronounced  Rules.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/KEYGEN.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Knock You Down !!.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Lost Girl.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Mini Studio.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/My Castle Town.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/NOW'S YOUR CHANCE TO BE A.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Ohhhhohohoho!.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Pandora Palace.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Powers Combined.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Queen.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Smart Race.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Sound Studio.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Spamton.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/The Dark Truth.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/Until Next Time.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/WELCOME TO THE CITY (Alt).mp3)
-[Download](Deltarune Soundtrack/Chapter 2/WELCOME TO THE CITY.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/When I Get Happy I Dance Like This.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/When I Get Mad I Dance Like This.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/You Can Always Come Home.mp3)
-[Download](Deltarune Soundtrack/Chapter 2/sans..mp3)
+<a href="Deltarune Soundtrack/Chapter 2/A CYBER'S WORLD.mp3">A CYBER'S WORLD.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/A Real Boy!.mp3">A Real Boy!.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/A Simple Diversion.mp3">A Simple Diversion.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/A-pplause for Berdly.mp3">A-pplause for Berdly.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Acid Tunnel of Love.mp3">Acid Tunnel of Love.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Almost To The Guys!.mp3">Almost To The Guys!.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Attack of the Killer Queen.mp3">Attack of the Killer Queen.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/BIG SHOT.mp3">BIG SHOT.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Berdly Battle (Really Tense Heartbeat Momento Version).mp3">Berdly Battle (Really Tense Heartbeat Momento Version).mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Berdly.mp3">Berdly.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Bluebird of Misfortune.mp3">Bluebird of Misfortune.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Chill Jailbreak Alarm to Study And Relax To.mp3">Chill Jailbreak Alarm to Study And Relax To.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Cool Beat.mp3">Cool Beat.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Cool Mixtape.mp3">Cool Mixtape.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Cyber Battle (Solo).mp3">Cyber Battle (Solo).mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Cyber Battle.mp3">Cyber Battle.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Deal Gone Wrong.mp3">Deal Gone Wrong.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Deltarune Chapter 2 Soundtrack.png">Deltarune Chapter 2 Soundtrack.png</a>
+<a href="Deltarune Soundtrack/Chapter 2/Determination.mp3">Determination.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Dialtone.mp3">Dialtone.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Digital Roots.mp3">Digital Roots.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Elegant Enterance.mp3">Elegant Enterance.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Faint Courage (Game Over).mp3">Faint Courage (Game Over).mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Faint Glow.mp3">Faint Glow.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Ferris Wheel.mp3">Ferris Wheel.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Giga Size.mp3">Giga Size.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Girl Next Door.mp3">Girl Next Door.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/HEY EVERY !.mp3">HEY EVERY !.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Holiday Studio.mp3">Holiday Studio.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/It's Pronounced  Rules.mp3">It's Pronounced  Rules.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/KEYGEN.mp3">KEYGEN.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Knock You Down !!.mp3">Knock You Down !!.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Lost Girl.mp3">Lost Girl.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Mini Studio.mp3">Mini Studio.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/My Castle Town.mp3">My Castle Town.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/NOW'S YOUR CHANCE TO BE A.mp3">NOW'S YOUR CHANCE TO BE A.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Ohhhhohohoho!.mp3">Ohhhhohohoho!.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Pandora Palace.mp3">Pandora Palace.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Powers Combined.mp3">Powers Combined.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Queen.mp3">Queen.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Smart Race.mp3">Smart Race.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Sound Studio.mp3">Sound Studio.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Spamton.mp3">Spamton.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/The Dark Truth.mp3">The Dark Truth.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/Until Next Time.mp3">Until Next Time.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/WELCOME TO THE CITY (Alt).mp3">WELCOME TO THE CITY (Alt).mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/WELCOME TO THE CITY.mp3">WELCOME TO THE CITY.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/When I Get Happy I Dance Like This.mp3">When I Get Happy I Dance Like This.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/When I Get Mad I Dance Like This.mp3">When I Get Mad I Dance Like This.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/You Can Always Come Home.mp3">You Can Always Come Home.mp3</a>
+<a href="Deltarune Soundtrack/Chapter 2/sans..mp3">sans..mp3</a>
 </details>
 </details>
 <details>
 <summary>Doors Soundtrack</summary>
 <details>
 <summary>Volume 1</summary>
-[Download](Doors Soundtrack/Volume 1/Dawn Of The Doors.mp3)
-[Download](Doors Soundtrack/Volume 1/Doors (Original Game Soundtrack), Vol. 1.png)
-[Download](Doors Soundtrack/Volume 1/Elevator Jam.mp3)
-[Download](Doors Soundtrack/Volume 1/Guiding Light.mp3)
-[Download](Doors Soundtrack/Volume 1/Here I Come.mp3)
-[Download](Doors Soundtrack/Volume 1/Unhinged.mp3)
+<a href="Doors Soundtrack/Volume 1/Dawn Of The Doors.mp3">Dawn Of The Doors.mp3</a>
+<a href="Doors Soundtrack/Volume 1/Doors (Original Game Soundtrack), Vol. 1.png">Doors (Original Game Soundtrack), Vol. 1.png</a>
+<a href="Doors Soundtrack/Volume 1/Elevator Jam.mp3">Elevator Jam.mp3</a>
+<a href="Doors Soundtrack/Volume 1/Guiding Light.mp3">Guiding Light.mp3</a>
+<a href="Doors Soundtrack/Volume 1/Here I Come.mp3">Here I Come.mp3</a>
+<a href="Doors Soundtrack/Volume 1/Unhinged.mp3">Unhinged.mp3</a>
 </details>
 <details>
 <summary>Volume 2</summary>
-[Download](Doors Soundtrack/Volume 2/Curious Light.mp3)
-[Download](Doors Soundtrack/Volume 2/Doors (Original Game Soundtrack), Vol. 2.png)
-[Download](Doors Soundtrack/Volume 2/Elevator Jam Remix.mp3)
-[Download](Doors Soundtrack/Volume 2/Elevator Jammed.mp3)
-[Download](Doors Soundtrack/Volume 2/Jeff's Jingle.mp3)
-[Download](Doors Soundtrack/Volume 2/Trailer Theme Remix.mp3)
-[Download](Doors Soundtrack/Volume 2/Unhinged II.mp3)
+<a href="Doors Soundtrack/Volume 2/Curious Light.mp3">Curious Light.mp3</a>
+<a href="Doors Soundtrack/Volume 2/Doors (Original Game Soundtrack), Vol. 2.png">Doors (Original Game Soundtrack), Vol. 2.png</a>
+<a href="Doors Soundtrack/Volume 2/Elevator Jam Remix.mp3">Elevator Jam Remix.mp3</a>
+<a href="Doors Soundtrack/Volume 2/Elevator Jammed.mp3">Elevator Jammed.mp3</a>
+<a href="Doors Soundtrack/Volume 2/Jeff's Jingle.mp3">Jeff's Jingle.mp3</a>
+<a href="Doors Soundtrack/Volume 2/Trailer Theme Remix.mp3">Trailer Theme Remix.mp3</a>
+<a href="Doors Soundtrack/Volume 2/Unhinged II.mp3">Unhinged II.mp3</a>
 </details>
 </details>
 <details>
 <summary>OneShot Solstice Soundtrack</summary>
-[Download](OneShot Solstice Soundtrack/Aviator.flac)
-[Download](OneShot Solstice Soundtrack/Collapse.flac)
-[Download](OneShot Solstice Soundtrack/Deep Mines.flac)
-[Download](OneShot Solstice Soundtrack/Eleventh hour.flac)
-[Download](OneShot Solstice Soundtrack/Encounter.flac)
-[Download](OneShot Solstice Soundtrack/Epilogue.flac)
-[Download](OneShot Solstice Soundtrack/First Flight.flac)
-[Download](OneShot Solstice Soundtrack/Ghost in the Machine.flac)
-[Download](OneShot Solstice Soundtrack/Happily Ever After.flac)
-[Download](OneShot Solstice Soundtrack/Happily Ever After.jpg)
-[Download](OneShot Solstice Soundtrack/Homesick.flac)
-[Download](OneShot Solstice Soundtrack/In Memory.flac)
-[Download](OneShot Solstice Soundtrack/Inventory.flac)
-[Download](OneShot Solstice Soundtrack/Navigate (extended).flac)
-[Download](OneShot Solstice Soundtrack/Niko's Theme.flac)
-[Download](OneShot Solstice Soundtrack/OneShot Solstice Soundtrack.png)
-[Download](OneShot Solstice Soundtrack/Out of Protocol.flac)
-[Download](OneShot Solstice Soundtrack/Panic.flac)
-[Download](OneShot Solstice Soundtrack/Prelude.flac)
-[Download](OneShot Solstice Soundtrack/Rue.flac)
-[Download](OneShot Solstice Soundtrack/Simpler Secrets.flac)
-[Download](OneShot Solstice Soundtrack/Solstice.flac)
-[Download](OneShot Solstice Soundtrack/Sonder (extended).flac)
-[Download](OneShot Solstice Soundtrack/Sunrise.flac)
-[Download](OneShot Solstice Soundtrack/The Author.flac)
-[Download](OneShot Solstice Soundtrack/The FIrst Universe.flac)
-[Download](OneShot Solstice Soundtrack/The Simulation.flac)
-[Download](OneShot Solstice Soundtrack/The World Machine.flac)
-[Download](OneShot Solstice Soundtrack/Vestige.flac)
+<a href="OneShot Solstice Soundtrack/Aviator.flac">Aviator.flac</a>
+<a href="OneShot Solstice Soundtrack/Collapse.flac">Collapse.flac</a>
+<a href="OneShot Solstice Soundtrack/Deep Mines.flac">Deep Mines.flac</a>
+<a href="OneShot Solstice Soundtrack/Eleventh hour.flac">Eleventh hour.flac</a>
+<a href="OneShot Solstice Soundtrack/Encounter.flac">Encounter.flac</a>
+<a href="OneShot Solstice Soundtrack/Epilogue.flac">Epilogue.flac</a>
+<a href="OneShot Solstice Soundtrack/First Flight.flac">First Flight.flac</a>
+<a href="OneShot Solstice Soundtrack/Ghost in the Machine.flac">Ghost in the Machine.flac</a>
+<a href="OneShot Solstice Soundtrack/Happily Ever After.flac">Happily Ever After.flac</a>
+<a href="OneShot Solstice Soundtrack/Happily Ever After.jpg">Happily Ever After.jpg</a>
+<a href="OneShot Solstice Soundtrack/Homesick.flac">Homesick.flac</a>
+<a href="OneShot Solstice Soundtrack/In Memory.flac">In Memory.flac</a>
+<a href="OneShot Solstice Soundtrack/Inventory.flac">Inventory.flac</a>
+<a href="OneShot Solstice Soundtrack/Navigate (extended).flac">Navigate (extended).flac</a>
+<a href="OneShot Solstice Soundtrack/Niko's Theme.flac">Niko's Theme.flac</a>
+<a href="OneShot Solstice Soundtrack/OneShot Solstice Soundtrack.png">OneShot Solstice Soundtrack.png</a>
+<a href="OneShot Solstice Soundtrack/Out of Protocol.flac">Out of Protocol.flac</a>
+<a href="OneShot Solstice Soundtrack/Panic.flac">Panic.flac</a>
+<a href="OneShot Solstice Soundtrack/Prelude.flac">Prelude.flac</a>
+<a href="OneShot Solstice Soundtrack/Rue.flac">Rue.flac</a>
+<a href="OneShot Solstice Soundtrack/Simpler Secrets.flac">Simpler Secrets.flac</a>
+<a href="OneShot Solstice Soundtrack/Solstice.flac">Solstice.flac</a>
+<a href="OneShot Solstice Soundtrack/Sonder (extended).flac">Sonder (extended).flac</a>
+<a href="OneShot Solstice Soundtrack/Sunrise.flac">Sunrise.flac</a>
+<a href="OneShot Solstice Soundtrack/The Author.flac">The Author.flac</a>
+<a href="OneShot Solstice Soundtrack/The FIrst Universe.flac">The FIrst Universe.flac</a>
+<a href="OneShot Solstice Soundtrack/The Simulation.flac">The Simulation.flac</a>
+<a href="OneShot Solstice Soundtrack/The World Machine.flac">The World Machine.flac</a>
+<a href="OneShot Solstice Soundtrack/Vestige.flac">Vestige.flac</a>
 </details>
 <details>
 <summary>OneShot Soundtrack</summary>
-[Download](OneShot Soundtrack/A God's Machine.flac)
-[Download](OneShot Soundtrack/Abandoned Factory.flac)
-[Download](OneShot Soundtrack/Alula.flac)
-[Download](OneShot Soundtrack/Children of the Ruins.flac)
-[Download](OneShot Soundtrack/Countdown.flac)
-[Download](OneShot Soundtrack/Dark Stairwell.flac)
-[Download](OneShot Soundtrack/Distant water.flac)
-[Download](OneShot Soundtrack/Distant.flac)
-[Download](OneShot Soundtrack/Factory.flac)
-[Download](OneShot Soundtrack/Flooded Ruins.flac)
-[Download](OneShot Soundtrack/Geothermal.flac)
-[Download](OneShot Soundtrack/I'm Here.flac)
-[Download](OneShot Soundtrack/IT'S TIME TO FIGHT CRIME.flac)
-[Download](OneShot Soundtrack/IT'S TIME TO FIGHT CRIME.jpg)
-[Download](OneShot Soundtrack/Indoors.flac)
-[Download](OneShot Soundtrack/Into The Light.flac)
-[Download](OneShot Soundtrack/Library Nap.flac)
-[Download](OneShot Soundtrack/Library Stroll.flac)
-[Download](OneShot Soundtrack/My Burden Is Light.flac)
-[Download](OneShot Soundtrack/Navigate.flac)
-[Download](OneShot Soundtrack/Niko and the World Machine.flac)
-[Download](OneShot Soundtrack/On Little Cat Feet (ground).flac)
-[Download](OneShot Soundtrack/On Little Cat Feet.flac)
-[Download](OneShot Soundtrack/OneShot Soundtrack.png)
-[Download](OneShot Soundtrack/OneShot Trailer.flac)
-[Download](OneShot Soundtrack/Phosphor.flac)
-[Download](OneShot Soundtrack/Pretty Bad.flac)
-[Download](OneShot Soundtrack/Pretty nice day, huh....flac)
-[Download](OneShot Soundtrack/Pretty.flac)
-[Download](OneShot Soundtrack/Puzzle Solved.flac)
-[Download](OneShot Soundtrack/Ram.flac)
-[Download](OneShot Soundtrack/Ram.jpg)
-[Download](OneShot Soundtrack/Rowbot.flac)
-[Download](OneShot Soundtrack/Self Contained Universe (Reprise).flac)
-[Download](OneShot Soundtrack/Self Contained Universe.flac)
-[Download](OneShot Soundtrack/Silverpoint.flac)
-[Download](OneShot Soundtrack/Simple Secrets.flac)
-[Download](OneShot Soundtrack/Someplace I Know.flac)
-[Download](OneShot Soundtrack/Sonder.flac)
-[Download](OneShot Soundtrack/Sun.flac)
-[Download](OneShot Soundtrack/Thanks For Everything.flac)
-[Download](OneShot Soundtrack/The Prophecy.flac)
-[Download](OneShot Soundtrack/The Tower.flac)
-[Download](OneShot Soundtrack/To Dream.flac)
-[Download](OneShot Soundtrack/To Sleep.flac)
+<a href="OneShot Soundtrack/A God's Machine.flac">A God's Machine.flac</a>
+<a href="OneShot Soundtrack/Abandoned Factory.flac">Abandoned Factory.flac</a>
+<a href="OneShot Soundtrack/Alula.flac">Alula.flac</a>
+<a href="OneShot Soundtrack/Children of the Ruins.flac">Children of the Ruins.flac</a>
+<a href="OneShot Soundtrack/Countdown.flac">Countdown.flac</a>
+<a href="OneShot Soundtrack/Dark Stairwell.flac">Dark Stairwell.flac</a>
+<a href="OneShot Soundtrack/Distant water.flac">Distant water.flac</a>
+<a href="OneShot Soundtrack/Distant.flac">Distant.flac</a>
+<a href="OneShot Soundtrack/Factory.flac">Factory.flac</a>
+<a href="OneShot Soundtrack/Flooded Ruins.flac">Flooded Ruins.flac</a>
+<a href="OneShot Soundtrack/Geothermal.flac">Geothermal.flac</a>
+<a href="OneShot Soundtrack/I'm Here.flac">I'm Here.flac</a>
+<a href="OneShot Soundtrack/IT'S TIME TO FIGHT CRIME.flac">IT'S TIME TO FIGHT CRIME.flac</a>
+<a href="OneShot Soundtrack/IT'S TIME TO FIGHT CRIME.jpg">IT'S TIME TO FIGHT CRIME.jpg</a>
+<a href="OneShot Soundtrack/Indoors.flac">Indoors.flac</a>
+<a href="OneShot Soundtrack/Into The Light.flac">Into The Light.flac</a>
+<a href="OneShot Soundtrack/Library Nap.flac">Library Nap.flac</a>
+<a href="OneShot Soundtrack/Library Stroll.flac">Library Stroll.flac</a>
+<a href="OneShot Soundtrack/My Burden Is Light.flac">My Burden Is Light.flac</a>
+<a href="OneShot Soundtrack/Navigate.flac">Navigate.flac</a>
+<a href="OneShot Soundtrack/Niko and the World Machine.flac">Niko and the World Machine.flac</a>
+<a href="OneShot Soundtrack/On Little Cat Feet (ground).flac">On Little Cat Feet (ground).flac</a>
+<a href="OneShot Soundtrack/On Little Cat Feet.flac">On Little Cat Feet.flac</a>
+<a href="OneShot Soundtrack/OneShot Soundtrack.png">OneShot Soundtrack.png</a>
+<a href="OneShot Soundtrack/OneShot Trailer.flac">OneShot Trailer.flac</a>
+<a href="OneShot Soundtrack/Phosphor.flac">Phosphor.flac</a>
+<a href="OneShot Soundtrack/Pretty Bad.flac">Pretty Bad.flac</a>
+<a href="OneShot Soundtrack/Pretty nice day, huh....flac">Pretty nice day, huh....flac</a>
+<a href="OneShot Soundtrack/Pretty.flac">Pretty.flac</a>
+<a href="OneShot Soundtrack/Puzzle Solved.flac">Puzzle Solved.flac</a>
+<a href="OneShot Soundtrack/Ram.flac">Ram.flac</a>
+<a href="OneShot Soundtrack/Ram.jpg">Ram.jpg</a>
+<a href="OneShot Soundtrack/Rowbot.flac">Rowbot.flac</a>
+<a href="OneShot Soundtrack/Self Contained Universe (Reprise).flac">Self Contained Universe (Reprise).flac</a>
+<a href="OneShot Soundtrack/Self Contained Universe.flac">Self Contained Universe.flac</a>
+<a href="OneShot Soundtrack/Silverpoint.flac">Silverpoint.flac</a>
+<a href="OneShot Soundtrack/Simple Secrets.flac">Simple Secrets.flac</a>
+<a href="OneShot Soundtrack/Someplace I Know.flac">Someplace I Know.flac</a>
+<a href="OneShot Soundtrack/Sonder.flac">Sonder.flac</a>
+<a href="OneShot Soundtrack/Sun.flac">Sun.flac</a>
+<a href="OneShot Soundtrack/Thanks For Everything.flac">Thanks For Everything.flac</a>
+<a href="OneShot Soundtrack/The Prophecy.flac">The Prophecy.flac</a>
+<a href="OneShot Soundtrack/The Tower.flac">The Tower.flac</a>
+<a href="OneShot Soundtrack/To Dream.flac">To Dream.flac</a>
+<a href="OneShot Soundtrack/To Sleep.flac">To Sleep.flac</a>
 </details>
 <details>
 <summary>Plants vs. Zombies Soundtrack</summary>
-[Download](Plants vs. Zombies Soundtrack/Brainiac Maniac.flac)
-[Download](Plants vs. Zombies Soundtrack/Cerebrawl.flac)
-[Download](Plants vs. Zombies Soundtrack/Choose Your Seeds.flac)
-[Download](Plants vs. Zombies Soundtrack/Crazy Dave (Intro Theme).flac)
-[Download](Plants vs. Zombies Soundtrack/Grasswalk.flac)
-[Download](Plants vs. Zombies Soundtrack/Graze the Roof.flac)
-[Download](Plants vs. Zombies Soundtrack/Loonboon.flac)
-[Download](Plants vs. Zombies Soundtrack/Moongrains (Horde).flac)
-[Download](Plants vs. Zombies Soundtrack/Moongrains.flac)
+<a href="Plants vs. Zombies Soundtrack/Brainiac Maniac.flac">Brainiac Maniac.flac</a>
+<a href="Plants vs. Zombies Soundtrack/Cerebrawl.flac">Cerebrawl.flac</a>
+<a href="Plants vs. Zombies Soundtrack/Choose Your Seeds.flac">Choose Your Seeds.flac</a>
+<a href="Plants vs. Zombies Soundtrack/Crazy Dave (Intro Theme).flac">Crazy Dave (Intro Theme).flac</a>
+<a href="Plants vs. Zombies Soundtrack/Grasswalk.flac">Grasswalk.flac</a>
+<a href="Plants vs. Zombies Soundtrack/Graze the Roof.flac">Graze the Roof.flac</a>
+<a href="Plants vs. Zombies Soundtrack/Loonboon.flac">Loonboon.flac</a>
+<a href="Plants vs. Zombies Soundtrack/Moongrains (Horde).flac">Moongrains (Horde).flac</a>
+<a href="Plants vs. Zombies Soundtrack/Moongrains.flac">Moongrains.flac</a>
 <details>
 <summary>Normal-Horde Variants</summary>
-[Download](Plants vs. Zombies Soundtrack/Normal-Horde Variants/Grasswalk (Horde).flac)
-[Download](Plants vs. Zombies Soundtrack/Normal-Horde Variants/Grasswalk (Normal).flac)
-[Download](Plants vs. Zombies Soundtrack/Normal-Horde Variants/Graze the Roof (Horde).flac)
-[Download](Plants vs. Zombies Soundtrack/Normal-Horde Variants/Graze the Roof (Normal).flac)
-[Download](Plants vs. Zombies Soundtrack/Normal-Horde Variants/Rigor Mormist (Horde).flac)
-[Download](Plants vs. Zombies Soundtrack/Normal-Horde Variants/Rigor Mormist (Normal).flac)
-[Download](Plants vs. Zombies Soundtrack/Normal-Horde Variants/Watery Graves (Horde).flac)
-[Download](Plants vs. Zombies Soundtrack/Normal-Horde Variants/Watery Graves (Normal).flac)
+<a href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Grasswalk (Horde).flac">Grasswalk (Horde).flac</a>
+<a href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Grasswalk (Normal).flac">Grasswalk (Normal).flac</a>
+<a href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Graze the Roof (Horde).flac">Graze the Roof (Horde).flac</a>
+<a href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Graze the Roof (Normal).flac">Graze the Roof (Normal).flac</a>
+<a href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Rigor Mormist (Horde).flac">Rigor Mormist (Horde).flac</a>
+<a href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Rigor Mormist (Normal).flac">Rigor Mormist (Normal).flac</a>
+<a href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Watery Graves (Horde).flac">Watery Graves (Horde).flac</a>
+<a href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Watery Graves (Normal).flac">Watery Graves (Normal).flac</a>
 </details>
-[Download](Plants vs. Zombies Soundtrack/Plants vs. Zombies Soundtrack.jpg)
-[Download](Plants vs. Zombies Soundtrack/Rigor Mormist.flac)
-[Download](Plants vs. Zombies Soundtrack/Ultimate Battle.flac)
-[Download](Plants vs. Zombies Soundtrack/Watery Graves.flac)
-[Download](Plants vs. Zombies Soundtrack/Zen Garden.flac)
+<a href="Plants vs. Zombies Soundtrack/Plants vs. Zombies Soundtrack.jpg">Plants vs. Zombies Soundtrack.jpg</a>
+<a href="Plants vs. Zombies Soundtrack/Rigor Mormist.flac">Rigor Mormist.flac</a>
+<a href="Plants vs. Zombies Soundtrack/Ultimate Battle.flac">Ultimate Battle.flac</a>
+<a href="Plants vs. Zombies Soundtrack/Watery Graves.flac">Watery Graves.flac</a>
+<a href="Plants vs. Zombies Soundtrack/Zen Garden.flac">Zen Garden.flac</a>
 </details>
-[Download](README.md)
 <details>
 <summary>Undertale Soundtrack</summary>
-[Download](Undertale Soundtrack/ASGORE.mp3)
-[Download](Undertale Soundtrack/Alphys.mp3)
-[Download](Undertale Soundtrack/Amalgam.mp3)
-[Download](Undertale Soundtrack/An Ending.mp3)
-[Download](Undertale Soundtrack/Another Medium.mp3)
-[Download](Undertale Soundtrack/Anticipation.mp3)
-[Download](Undertale Soundtrack/Barrier.mp3)
-[Download](Undertale Soundtrack/Battle Against a True Hero.mp3)
-[Download](Undertale Soundtrack/Bergentrückung.mp3)
-[Download](Undertale Soundtrack/Bird That Carries You Over A Disproportionately Small Gap.mp3)
-[Download](Undertale Soundtrack/Bonetrousle.mp3)
-[Download](Undertale Soundtrack/Bring It In, Guys!.mp3)
-[Download](Undertale Soundtrack/Burn in Despair!.mp3)
-[Download](Undertale Soundtrack/But the Earth Refused to Die.mp3)
-[Download](Undertale Soundtrack/CORE Approach.mp3)
-[Download](Undertale Soundtrack/CORE.mp3)
-[Download](Undertale Soundtrack/Can You Really Call This A Hotel, I Didn't Receive A Mint On My Pillow Or Anything.mp3)
-[Download](Undertale Soundtrack/Chill.mp3)
-[Download](Undertale Soundtrack/Confession.mp3)
-[Download](Undertale Soundtrack/Danger Mystery.mp3)
-[Download](Undertale Soundtrack/Dating Fight!.mp3)
-[Download](Undertale Soundtrack/Dating Start!.mp3)
-[Download](Undertale Soundtrack/Dating Tense!.mp3)
-[Download](Undertale Soundtrack/Death Report.mp3)
-[Download](Undertale Soundtrack/Death by Glamour.mp3)
-[Download](Undertale Soundtrack/Determination.mp3)
-[Download](Undertale Soundtrack/Dogbass.mp3)
-[Download](Undertale Soundtrack/Dogsong.mp3)
-[Download](Undertale Soundtrack/Don't Give Up.mp3)
-[Download](Undertale Soundtrack/Dummy!.mp3)
-[Download](Undertale Soundtrack/Enemy Approaching.mp3)
-[Download](Undertale Soundtrack/Fallen Down (Reprise).mp3)
-[Download](Undertale Soundtrack/Fallen Down.mp3)
-[Download](Undertale Soundtrack/Final Power.mp3)
-[Download](Undertale Soundtrack/Finale.mp3)
-[Download](Undertale Soundtrack/For the Fans.mp3)
-[Download](Undertale Soundtrack/Ghost Fight.mp3)
-[Download](Undertale Soundtrack/Ghouliday.mp3)
-[Download](Undertale Soundtrack/Good Night.mp3)
-[Download](Undertale Soundtrack/Heartache.mp3)
-[Download](Undertale Soundtrack/Here We Are.mp3)
-[Download](Undertale Soundtrack/His Theme.mp3)
-[Download](Undertale Soundtrack/Home (Music Box).mp3)
-[Download](Undertale Soundtrack/Home.mp3)
-[Download](Undertale Soundtrack/Hopes and Dreams.mp3)
-[Download](Undertale Soundtrack/Hotel.mp3)
-[Download](Undertale Soundtrack/It's Raining Somewhere Else.mp3)
-[Download](Undertale Soundtrack/It's Showtime!.mp3)
-[Download](Undertale Soundtrack/Last Episode!.mp3)
-[Download](Undertale Soundtrack/Last Goodbye.mp3)
-[Download](Undertale Soundtrack/Live Report.mp3)
-[Download](Undertale Soundtrack/Long Elevator.mp3)
-[Download](Undertale Soundtrack/Megalovania.mp3)
-[Download](Undertale Soundtrack/Memory.mp3)
-[Download](Undertale Soundtrack/Menu (Full).mp3)
-[Download](Undertale Soundtrack/Metal Crusher.mp3)
-[Download](Undertale Soundtrack/Mysterious Place.mp3)
-[Download](Undertale Soundtrack/NGAHHH!!.mp3)
-[Download](Undertale Soundtrack/Nyeh Heh Heh!.mp3)
-[Download](Undertale Soundtrack/Oh My.mp3)
-[Download](Undertale Soundtrack/Oh! Dungeon.mp3)
-[Download](Undertale Soundtrack/Oh! One True Love.mp3)
-[Download](Undertale Soundtrack/Once Upon A Time.mp3)
-[Download](Undertale Soundtrack/Ooo.mp3)
-[Download](Undertale Soundtrack/Pathetic House.mp3)
-[Download](Undertale Soundtrack/Power of -NEO-.mp3)
-[Download](Undertale Soundtrack/Premonition.mp3)
-[Download](Undertale Soundtrack/Quiet Water.mp3)
-[Download](Undertale Soundtrack/Respite.mp3)
-[Download](Undertale Soundtrack/Reunited.mp3)
-[Download](Undertale Soundtrack/Ruins.mp3)
-[Download](Undertale Soundtrack/Run!.mp3)
-[Download](Undertale Soundtrack/SAVE the World.mp3)
-[Download](Undertale Soundtrack/She's Playing Piano.mp3)
-[Download](Undertale Soundtrack/Shop.mp3)
-[Download](Undertale Soundtrack/Small Shock.mp3)
-[Download](Undertale Soundtrack/Snowdin Town.mp3)
-[Download](Undertale Soundtrack/Snowy.mp3)
-[Download](Undertale Soundtrack/Song That Might Play When You Fight Sans.mp3)
-[Download](Undertale Soundtrack/Spear of Justice.mp3)
-[Download](Undertale Soundtrack/Spider Dance.mp3)
-[Download](Undertale Soundtrack/Spooktune.mp3)
-[Download](Undertale Soundtrack/Spookwave.mp3)
-[Download](Undertale Soundtrack/Start Menu.mp3)
-[Download](Undertale Soundtrack/Stronger Monsters.mp3)
-[Download](Undertale Soundtrack/Tem Shop.mp3)
-[Download](Undertale Soundtrack/Temmie Village.mp3)
-[Download](Undertale Soundtrack/The Choice.mp3)
-[Download](Undertale Soundtrack/Thundersnail.mp3)
-[Download](Undertale Soundtrack/Undertale Soundtrack.png)
-[Download](Undertale Soundtrack/Undertale.mp3)
-[Download](Undertale Soundtrack/Undyne.mp3)
-[Download](Undertale Soundtrack/Unnecessary Tension.mp3)
-[Download](Undertale Soundtrack/Uwa!! So HEATS!!♫.mp3)
-[Download](Undertale Soundtrack/Uwa!! So Holiday♫.mp3)
-[Download](Undertale Soundtrack/Uwa!! So Temperate♫.mp3)
-[Download](Undertale Soundtrack/Waterfall.mp3)
-[Download](Undertale Soundtrack/Wrong Enemy !-.mp3)
-[Download](Undertale Soundtrack/You Idiot.mp3)
-[Download](Undertale Soundtrack/Your Best Friend.mp3)
-[Download](Undertale Soundtrack/Your Best Nightmare.mp3)
-[Download](Undertale Soundtrack/sans.mp3)
-</details>
-[Download](_config.yml)
-<details>
-<summary>scripts</summary>
-[Download](scripts/update_readme.py)
-</details>
+<a href="Undertale Soundtrack/ASGORE.mp3">ASGORE.mp3</a>
+<a href="Undertale Soundtrack/Alphys.mp3">Alphys.mp3</a>
+<a href="Undertale Soundtrack/Amalgam.mp3">Amalgam.mp3</a>
+<a href="Undertale Soundtrack/An Ending.mp3">An Ending.mp3</a>
+<a href="Undertale Soundtrack/Another Medium.mp3">Another Medium.mp3</a>
+<a href="Undertale Soundtrack/Anticipation.mp3">Anticipation.mp3</a>
+<a href="Undertale Soundtrack/Barrier.mp3">Barrier.mp3</a>
+<a href="Undertale Soundtrack/Battle Against a True Hero.mp3">Battle Against a True Hero.mp3</a>
+<a href="Undertale Soundtrack/Bergentrückung.mp3">Bergentrückung.mp3</a>
+<a href="Undertale Soundtrack/Bird That Carries You Over A Disproportionately Small Gap.mp3">Bird That Carries You Over A Disproportionately Small Gap.mp3</a>
+<a href="Undertale Soundtrack/Bonetrousle.mp3">Bonetrousle.mp3</a>
+<a href="Undertale Soundtrack/Bring It In, Guys!.mp3">Bring It In, Guys!.mp3</a>
+<a href="Undertale Soundtrack/Burn in Despair!.mp3">Burn in Despair!.mp3</a>
+<a href="Undertale Soundtrack/But the Earth Refused to Die.mp3">But the Earth Refused to Die.mp3</a>
+<a href="Undertale Soundtrack/CORE Approach.mp3">CORE Approach.mp3</a>
+<a href="Undertale Soundtrack/CORE.mp3">CORE.mp3</a>
+<a href="Undertale Soundtrack/Can You Really Call This A Hotel, I Didn't Receive A Mint On My Pillow Or Anything.mp3">Can You Really Call This A Hotel, I Didn't Receive A Mint On My Pillow Or Anything.mp3</a>
+<a href="Undertale Soundtrack/Chill.mp3">Chill.mp3</a>
+<a href="Undertale Soundtrack/Confession.mp3">Confession.mp3</a>
+<a href="Undertale Soundtrack/Danger Mystery.mp3">Danger Mystery.mp3</a>
+<a href="Undertale Soundtrack/Dating Fight!.mp3">Dating Fight!.mp3</a>
+<a href="Undertale Soundtrack/Dating Start!.mp3">Dating Start!.mp3</a>
+<a href="Undertale Soundtrack/Dating Tense!.mp3">Dating Tense!.mp3</a>
+<a href="Undertale Soundtrack/Death Report.mp3">Death Report.mp3</a>
+<a href="Undertale Soundtrack/Death by Glamour.mp3">Death by Glamour.mp3</a>
+<a href="Undertale Soundtrack/Determination.mp3">Determination.mp3</a>
+<a href="Undertale Soundtrack/Dogbass.mp3">Dogbass.mp3</a>
+<a href="Undertale Soundtrack/Dogsong.mp3">Dogsong.mp3</a>
+<a href="Undertale Soundtrack/Don't Give Up.mp3">Don't Give Up.mp3</a>
+<a href="Undertale Soundtrack/Dummy!.mp3">Dummy!.mp3</a>
+<a href="Undertale Soundtrack/Enemy Approaching.mp3">Enemy Approaching.mp3</a>
+<a href="Undertale Soundtrack/Fallen Down (Reprise).mp3">Fallen Down (Reprise).mp3</a>
+<a href="Undertale Soundtrack/Fallen Down.mp3">Fallen Down.mp3</a>
+<a href="Undertale Soundtrack/Final Power.mp3">Final Power.mp3</a>
+<a href="Undertale Soundtrack/Finale.mp3">Finale.mp3</a>
+<a href="Undertale Soundtrack/For the Fans.mp3">For the Fans.mp3</a>
+<a href="Undertale Soundtrack/Ghost Fight.mp3">Ghost Fight.mp3</a>
+<a href="Undertale Soundtrack/Ghouliday.mp3">Ghouliday.mp3</a>
+<a href="Undertale Soundtrack/Good Night.mp3">Good Night.mp3</a>
+<a href="Undertale Soundtrack/Heartache.mp3">Heartache.mp3</a>
+<a href="Undertale Soundtrack/Here We Are.mp3">Here We Are.mp3</a>
+<a href="Undertale Soundtrack/His Theme.mp3">His Theme.mp3</a>
+<a href="Undertale Soundtrack/Home (Music Box).mp3">Home (Music Box).mp3</a>
+<a href="Undertale Soundtrack/Home.mp3">Home.mp3</a>
+<a href="Undertale Soundtrack/Hopes and Dreams.mp3">Hopes and Dreams.mp3</a>
+<a href="Undertale Soundtrack/Hotel.mp3">Hotel.mp3</a>
+<a href="Undertale Soundtrack/It's Raining Somewhere Else.mp3">It's Raining Somewhere Else.mp3</a>
+<a href="Undertale Soundtrack/It's Showtime!.mp3">It's Showtime!.mp3</a>
+<a href="Undertale Soundtrack/Last Episode!.mp3">Last Episode!.mp3</a>
+<a href="Undertale Soundtrack/Last Goodbye.mp3">Last Goodbye.mp3</a>
+<a href="Undertale Soundtrack/Live Report.mp3">Live Report.mp3</a>
+<a href="Undertale Soundtrack/Long Elevator.mp3">Long Elevator.mp3</a>
+<a href="Undertale Soundtrack/Megalovania.mp3">Megalovania.mp3</a>
+<a href="Undertale Soundtrack/Memory.mp3">Memory.mp3</a>
+<a href="Undertale Soundtrack/Menu (Full).mp3">Menu (Full).mp3</a>
+<a href="Undertale Soundtrack/Metal Crusher.mp3">Metal Crusher.mp3</a>
+<a href="Undertale Soundtrack/Mysterious Place.mp3">Mysterious Place.mp3</a>
+<a href="Undertale Soundtrack/NGAHHH!!.mp3">NGAHHH!!.mp3</a>
+<a href="Undertale Soundtrack/Nyeh Heh Heh!.mp3">Nyeh Heh Heh!.mp3</a>
+<a href="Undertale Soundtrack/Oh My.mp3">Oh My.mp3</a>
+<a href="Undertale Soundtrack/Oh! Dungeon.mp3">Oh! Dungeon.mp3</a>
+<a href="Undertale Soundtrack/Oh! One True Love.mp3">Oh! One True Love.mp3</a>
+<a href="Undertale Soundtrack/Once Upon A Time.mp3">Once Upon A Time.mp3</a>
+<a href="Undertale Soundtrack/Ooo.mp3">Ooo.mp3</a>
+<a href="Undertale Soundtrack/Pathetic House.mp3">Pathetic House.mp3</a>
+<a href="Undertale Soundtrack/Power of -NEO-.mp3">Power of -NEO-.mp3</a>
+<a href="Undertale Soundtrack/Premonition.mp3">Premonition.mp3</a>
+<a href="Undertale Soundtrack/Quiet Water.mp3">Quiet Water.mp3</a>
+<a href="Undertale Soundtrack/Respite.mp3">Respite.mp3</a>
+<a href="Undertale Soundtrack/Reunited.mp3">Reunited.mp3</a>
+<a href="Undertale Soundtrack/Ruins.mp3">Ruins.mp3</a>
+<a href="Undertale Soundtrack/Run!.mp3">Run!.mp3</a>
+<a href="Undertale Soundtrack/SAVE the World.mp3">SAVE the World.mp3</a>
+<a href="Undertale Soundtrack/She's Playing Piano.mp3">She's Playing Piano.mp3</a>
+<a href="Undertale Soundtrack/Shop.mp3">Shop.mp3</a>
+<a href="Undertale Soundtrack/Small Shock.mp3">Small Shock.mp3</a>
+<a href="Undertale Soundtrack/Snowdin Town.mp3">Snowdin Town.mp3</a>
+<a href="Undertale Soundtrack/Snowy.mp3">Snowy.mp3</a>
+<a href="Undertale Soundtrack/Song That Might Play When You Fight Sans.mp3">Song That Might Play When You Fight Sans.mp3</a>
+<a href="Undertale Soundtrack/Spear of Justice.mp3">Spear of Justice.mp3</a>
+<a href="Undertale Soundtrack/Spider Dance.mp3">Spider Dance.mp3</a>
+<a href="Undertale Soundtrack/Spooktune.mp3">Spooktune.mp3</a>
+<a href="Undertale Soundtrack/Spookwave.mp3">Spookwave.mp3</a>
+<a href="Undertale Soundtrack/Start Menu.mp3">Start Menu.mp3</a>
+<a href="Undertale Soundtrack/Stronger Monsters.mp3">Stronger Monsters.mp3</a>
+<a href="Undertale Soundtrack/Tem Shop.mp3">Tem Shop.mp3</a>
+<a href="Undertale Soundtrack/Temmie Village.mp3">Temmie Village.mp3</a>
+<a href="Undertale Soundtrack/The Choice.mp3">The Choice.mp3</a>
+<a href="Undertale Soundtrack/Thundersnail.mp3">Thundersnail.mp3</a>
+<a href="Undertale Soundtrack/Undertale Soundtrack.png">Undertale Soundtrack.png</a>
+<a href="Undertale Soundtrack/Undertale.mp3">Undertale.mp3</a>
+<a href="Undertale Soundtrack/Undyne.mp3">Undyne.mp3</a>
+<a href="Undertale Soundtrack/Unnecessary Tension.mp3">Unnecessary Tension.mp3</a>
+<a href="Undertale Soundtrack/Uwa!! So HEATS!!♫.mp3">Uwa!! So HEATS!!♫.mp3</a>
+<a href="Undertale Soundtrack/Uwa!! So Holiday♫.mp3">Uwa!! So Holiday♫.mp3</a>
+<a href="Undertale Soundtrack/Uwa!! So Temperate♫.mp3">Uwa!! So Temperate♫.mp3</a>
+<a href="Undertale Soundtrack/Waterfall.mp3">Waterfall.mp3</a>
+<a href="Undertale Soundtrack/Wrong Enemy !-.mp3">Wrong Enemy !-.mp3</a>
+<a href="Undertale Soundtrack/You Idiot.mp3">You Idiot.mp3</a>
+<a href="Undertale Soundtrack/Your Best Friend.mp3">Your Best Friend.mp3</a>
+<a href="Undertale Soundtrack/Your Best Nightmare.mp3">Your Best Nightmare.mp3</a>
+<a href="Undertale Soundtrack/sans.mp3">sans.mp3</a>
 </details>
 <!-- files-end -->
