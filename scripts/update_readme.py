@@ -1,6 +1,21 @@
 import os
+from mutagen import File
 
 EXCLUDED = {".git", ".github", "scripts", "README.md", "_config.yml"}
+AUDIO_EXTENSIONS = {".mp3", ".flac", ".m4a", ".wav", ".ogg"}
+
+
+def get_track_number(file_path):
+    try:
+        audio = File(file_path)
+        if audio:
+            track_number = audio.tags.get("TRCK") or audio.tags.get("TRACKNUMBER")
+            if track_number:
+                # Handle cases like "1/10" or "01" -> extract only the first part and convert to int
+                return int(track_number.text[0].split("/")[0])
+    except Exception as e:
+        print(f"Error reading metadata from {file_path}: {e}")
+    return None
 
 
 def generate_file_structure(base_path, path=""):
@@ -25,16 +40,35 @@ def generate_file_structure(base_path, path=""):
             item_path = os.path.join(path, directory)
             result.extend(generate_file_structure(base_path, item_path))
         # Then files
-        files = sorted(
-            [
-                f
-                for f in os.listdir(full_path)
-                if os.path.isfile(os.path.join(full_path, f))
-            ]
-        )
-        for file in files:
+        files = [
+            f
+            for f in os.listdir(full_path)
+            if os.path.isfile(os.path.join(full_path, f))
+        ]
+        audio_files = [
+            f for f in files if os.path.splitext(f)[1].lower() in AUDIO_EXTENSIONS
+        ]
+        other_files = [
+            f for f in files if os.path.splitext(f)[1].lower() not in AUDIO_EXTENSIONS
+        ]
+
+        # Sort audio files by track number
+        audio_files_with_tracks = [
+            (f, get_track_number(os.path.join(full_path, f))) for f in audio_files
+        ]
+        audio_files_with_tracks.sort(
+            key=lambda x: (x[1] is None, x[1])
+        )  # None values should be at the end
+
+        for file, track in audio_files_with_tracks:
             item_path = os.path.join(path, file)
-            result.extend(generate_file_structure(base_path, item_path))
+            result.append(f'<a href="{item_path}">{file}</a><br>')
+
+        # Add other files
+        for file in sorted(other_files):
+            item_path = os.path.join(path, file)
+            result.append(f'<a href="{item_path}">{file}</a><br>')
+
         if path:  # Avoid root directory
             result.append("</details>")
     else:
