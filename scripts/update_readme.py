@@ -1,7 +1,7 @@
 import os
 from mutagen import File
 
-EXCLUDED = {".git", ".github", "scripts", "README.md", "_config.yml"}
+EXCLUDED = {".git", ".github", "scripts"}
 AUDIO_EXTENSIONS = {".mp3", ".flac", ".m4a", ".wav", ".ogg"}
 
 
@@ -11,10 +11,8 @@ def get_track_number(file_path):
         if audio:
             track_number = audio.tags.get("TRCK") or audio.tags.get("TRACKNUMBER")
             if track_number:
-                if isinstance(track_number, list):
-                    track_number = track_number[0]
                 # Handle cases like "1/10" or "01" -> extract only the first part and convert to int
-                return int(str(track_number).split("/")[0])
+                return int(track_number.text[0].split("/")[0])
     except Exception as e:
         print(f"Error reading metadata from {file_path}: {e}")
     return None
@@ -72,37 +70,13 @@ def generate_file_structure(base_path, path=""):
             result.append(f'<a href="{item_path}">{file}</a><br>')
 
         if path:  # Avoid root directory
-            result.append("</details>")
+            result.append("</details><hr>")
     else:
         result.append(f'<a href="{path}">{os.path.basename(path)}</a><br>')
     return result
 
 
 def update_readme(file_structure):
-    readme_path = "README.md"
-    with open(readme_path, "r") as readme_file:
-        lines = readme_file.readlines()
-
-    start_tag = "<!-- files -->"
-    end_tag = "<!-- files-end -->"
-    start_index = lines.index(start_tag + "\n") + 1
-    end_index = lines.index(end_tag + "\n")
-
-    # Lines to be removed
-    excluded_lines = [
-        '<a href="README.md">README.md</a><br>',
-        '<a href="_config.yml">_config.yml</a><br>',
-    ]
-
-    # Filter out the excluded lines
-    filtered_file_structure = [
-        line for line in file_structure if line.strip() not in excluded_lines
-    ]
-
-    new_lines = lines[:start_index] + filtered_file_structure + lines[end_index:]
-
-    with open(readme_path, "w") as readme_file:
-        readme_file.writelines(new_lines)
     readme_path = "README.md"
     with open(readme_path, "r") as readme_file:
         lines = readme_file.readlines()
