@@ -4,7 +4,8 @@
 
 <!-- files -->
 <details>
-<summary>Celeste Soundtrack</summary><hr>
+<hr>
+<summary>Celeste Soundtrack</summary>
 <a href="Celeste Soundtrack/Resurrections.mp3">Resurrections.mp3</a><br>
 <a href="Celeste Soundtrack/Prologue.mp3">Prologue.mp3</a><br>
 <a href="Celeste Soundtrack/First Steps.mp3">First Steps.mp3</a><br>
@@ -29,9 +30,11 @@
 <a href="Celeste Soundtrack/Celeste Original Soundtrack.png">Celeste Original Soundtrack.png</a><br>
 </details><hr>
 <details>
-<summary>Deltarune Soundtrack</summary><hr>
+<hr>
+<summary>Deltarune Soundtrack</summary>
 <details>
-<summary>Chapter 1</summary><hr>
+<hr>
+<summary>Chapter 1</summary>
 <a href="Deltarune Soundtrack/Chapter 1/Quiet Autumn.mp3">Quiet Autumn.mp3</a><br>
 <a href="Deltarune Soundtrack/Chapter 1/Vs. Lancer.mp3">Vs. Lancer.mp3</a><br>
 <a href="Deltarune Soundtrack/Chapter 1/Vs. Susie.mp3">Vs. Susie.mp3</a><br>
@@ -76,7 +79,8 @@
 <a href="Deltarune Soundtrack/Chapter 1/Deltarune Chapter 1 Soundtrack.png">Deltarune Chapter 1 Soundtrack.png</a><br>
 </details><hr>
 <details>
-<summary>Chapter 2</summary><hr>
+<hr>
+<summary>Chapter 2</summary>
 <a href="Deltarune Soundtrack/Chapter 2/My Castle Town.mp3">My Castle Town.mp3</a><br>
 <a href="Deltarune Soundtrack/Chapter 2/Holiday Studio.mp3">Holiday Studio.mp3</a><br>
 <a href="Deltarune Soundtrack/Chapter 2/NOW'S YOUR CHANCE TO BE A.mp3">NOW'S YOUR CHANCE TO BE A.mp3</a><br>
@@ -131,9 +135,11 @@
 </details><hr>
 </details><hr>
 <details>
-<summary>Doors Soundtrack</summary><hr>
+<hr>
+<summary>Doors Soundtrack</summary>
 <details>
-<summary>Volume 1</summary><hr>
+<hr>
+<summary>Volume 1</summary>
 <a href="Doors Soundtrack/Volume 1/Here I Come.mp3">Here I Come.mp3</a><br>
 <a href="Doors Soundtrack/Volume 1/Elevator Jam.mp3">Elevator Jam.mp3</a><br>
 <a href="Doors Soundtrack/Volume 1/Guiding Light.mp3">Guiding Light.mp3</a><br>
@@ -142,7 +148,8 @@
 <a href="Doors Soundtrack/Volume 1/Doors (Original Game Soundtrack), Vol. 1.png">Doors (Original Game Soundtrack), Vol. 1.png</a><br>
 </details><hr>
 <details>
-<summary>Volume 2</summary><hr>
+<hr>
+<summary>Volume 2</summary>
 <a href="Doors Soundtrack/Volume 2/Elevator Jam Remix.mp3">Elevator Jam Remix.mp3</a><br>
 <a href="Doors Soundtrack/Volume 2/Curious Light.mp3">Curious Light.mp3</a><br>
 <a href="Doors Soundtrack/Volume 2/Elevator Jammed.mp3">Elevator Jammed.mp3</a><br>
@@ -153,7 +160,8 @@
 </details><hr>
 </details><hr>
 <details>
-<summary>OneShot Solstice Soundtrack</summary><hr>
+<hr>
+<summary>OneShot Solstice Soundtrack</summary>
 <a href="OneShot Solstice Soundtrack/Sunrise.flac">Sunrise.flac</a><br>
 <a href="OneShot Solstice Soundtrack/Aviator.flac">Aviator.flac</a><br>
 <a href="OneShot Solstice Soundtrack/The World Machine.flac">The World Machine.flac</a><br>
@@ -185,7 +193,8 @@
 <a href="OneShot Solstice Soundtrack/OneShot Solstice Soundtrack.png">OneShot Solstice Soundtrack.png</a><br>
 </details><hr>
 <details>
-<summary>OneShot Soundtrack</summary><hr>
+<hr>
+<summary>OneShot Soundtrack</summary>
 <a href="OneShot Soundtrack/IT'S TIME TO FIGHT CRIME.flac">IT'S TIME TO FIGHT CRIME.flac</a><br>
 <a href="OneShot Soundtrack/The Tower.flac">The Tower.flac</a><br>
 <a href="OneShot Soundtrack/Ram.flac">Ram.flac</a><br>
@@ -233,9 +242,11 @@
 <a href="OneShot Soundtrack/Ram.jpg">Ram.jpg</a><br>
 </details><hr>
 <details>
-<summary>Plants vs. Zombies Soundtrack</summary><hr>
+<hr>
+<summary>Plants vs. Zombies Soundtrack</summary>
 <details>
-<summary>Normal-Horde Variants</summary><hr>
+<hr>
+<summary>Normal-Horde Variants</summary>
 <a href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Rigor Mormist (Horde).flac">Rigor Mormist (Horde).flac</a><br>
 <a href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Graze the Roof (Horde).flac">Graze the Roof (Horde).flac</a><br>
 <a href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Graze the Roof (Normal).flac">Graze the Roof (Normal).flac</a><br>
@@ -261,7 +272,8 @@
 <a href="Plants vs. Zombies Soundtrack/Plants vs. Zombies Soundtrack.jpg">Plants vs. Zombies Soundtrack.jpg</a><br>
 </details><hr>
 <details>
-<summary>Undertale Soundtrack</summary><hr>
+<hr>
+<summary>Undertale Soundtrack</summary>
 <a href="Undertale Soundtrack/Another Medium.mp3">Another Medium.mp3</a><br>
 <a href="Undertale Soundtrack/NGAHHH!!.mp3">NGAHHH!!.mp3</a><br>
 <a href="Undertale Soundtrack/Your Best Nightmare.mp3">Your Best Nightmare.mp3</a><br>
