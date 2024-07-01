@@ -144,6 +144,36 @@
 │       ├── Jeff's Jingle.mp3
 │       ├── Trailer Theme Remix.mp3
 │       └── Unhinged II.mp3
+├── OneShot Solstice Soundtrack
+│   ├── Aviator.flac
+│   ├── Collapse.flac
+│   ├── Deep Mines.flac
+│   ├── Eleventh hour.flac
+│   ├── Encounter.flac
+│   ├── Epilogue.flac
+│   ├── First Flight.flac
+│   ├── Ghost in the Machine.flac
+│   ├── Happily Ever After.flac
+│   ├── Happily Ever After.jpg
+│   ├── Homesick.flac
+│   ├── In Memory.flac
+│   ├── Inventory.flac
+│   ├── Navigate (extended).flac
+│   ├── Niko's Theme.flac
+│   ├── OneShot Solstice Soundtrack.png
+│   ├── Out of Protocol.flac
+│   ├── Panic.flac
+│   ├── Prelude.flac
+│   ├── Rue.flac
+│   ├── Simpler Secrets.flac
+│   ├── Solstice.flac
+│   ├── Sonder (extended).flac
+│   ├── Sunrise.flac
+│   ├── The Author.flac
+│   ├── The FIrst Universe.flac
+│   ├── The Simulation.flac
+│   ├── The World Machine.flac
+│   └── Vestige.flac
 ├── OneShot Soundtrack
 │   ├── A God's Machine.flac
 │   ├── Abandoned Factory.flac
@@ -320,6 +350,6 @@
 │   └── sans.mp3
 └── tree.bak
 
-13 directories, 301 files
+14 directories, 330 files
 ```
 <!-- readme-tree end -->
