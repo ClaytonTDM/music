@@ -127,7 +127,6 @@
 │       ├── When I Get Happy I Dance Like This.mp3
 │       ├── When I Get Mad I Dance Like This.mp3
 │       ├── You Can Always Come Home.mp3
-│       ├── d .ogg.mp3
 │       └── sans..mp3
 ├── Doors Soundtrack
 │   ├── Volume 1
@@ -352,6 +351,6 @@
 ├── _config.yml
 └── tree.bak
 
-14 directories, 332 files
+14 directories, 331 files
 ```
 <!-- readme-tree end -->
