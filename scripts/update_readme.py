@@ -13,13 +13,32 @@ def generate_file_structure(base_path, path=""):
     if os.path.isdir(full_path):
         if path:  # Avoid root directory
             result.append(f"<details>\n<summary>{os.path.basename(path)}</summary>")
-        for item in sorted(os.listdir(full_path)):
-            item_path = os.path.join(path, item)
+        # Directories first
+        directories = sorted(
+            [
+                d
+                for d in os.listdir(full_path)
+                if os.path.isdir(os.path.join(full_path, d))
+            ]
+        )
+        for directory in directories:
+            item_path = os.path.join(path, directory)
+            result.extend(generate_file_structure(base_path, item_path))
+        # Then files
+        files = sorted(
+            [
+                f
+                for f in os.listdir(full_path)
+                if os.path.isfile(os.path.join(full_path, f))
+            ]
+        )
+        for file in files:
+            item_path = os.path.join(path, file)
             result.extend(generate_file_structure(base_path, item_path))
         if path:  # Avoid root directory
             result.append("</details>")
     else:
-        result.append(f'<a href="{path}">{os.path.basename(path)}</a>')
+        result.append(f'<a href="{path}">{os.path.basename(path)}</a><br>')
     return result
 
 
