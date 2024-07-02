@@ -161,43 +161,43 @@
 </details><hr>
 <details>
 <hr>
-<summary>OneShot Solstice Soundtrack</summary>
-<a href="OneShot Solstice Soundtrack/Happily Ever After.jpg">Happily Ever After.jpg</a><br>
-<a href="OneShot Solstice Soundtrack/OneShot Solstice Soundtrack.png">OneShot Solstice Soundtrack.png</a><br>
-<a href="OneShot Solstice Soundtrack/Prelude.flac">Prelude.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Deep Mines.flac">Deep Mines.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Vestige.flac">Vestige.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Sonder (extended).flac">Sonder (extended).flac</a><br>
-<a href="OneShot Solstice Soundtrack/Out of Protocol.flac">Out of Protocol.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Panic.flac">Panic.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Collapse.flac">Collapse.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Navigate (extended).flac">Navigate (extended).flac</a><br>
-<a href="OneShot Solstice Soundtrack/The FIrst Universe.flac">The FIrst Universe.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Aviator.flac">Aviator.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Eleventh hour.flac">Eleventh hour.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Rue.flac">Rue.flac</a><br>
-<a href="OneShot Solstice Soundtrack/The Author.flac">The Author.flac</a><br>
-<a href="OneShot Solstice Soundtrack/The World Machine.flac">The World Machine.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Encounter.flac">Encounter.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Solstice.flac">Solstice.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Sunrise.flac">Sunrise.flac</a><br>
-<a href="OneShot Solstice Soundtrack/In Memory.flac">In Memory.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Epilogue.flac">Epilogue.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Homesick.flac">Homesick.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Inventory.flac">Inventory.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Simpler Secrets.flac">Simpler Secrets.flac</a><br>
-<a href="OneShot Solstice Soundtrack/First Flight.flac">First Flight.flac</a><br>
-<a href="OneShot Solstice Soundtrack/The Simulation.flac">The Simulation.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Ghost in the Machine.flac">Ghost in the Machine.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Happily Ever After.flac">Happily Ever After.flac</a><br>
-<a href="OneShot Solstice Soundtrack/Niko's Theme.flac">Niko's Theme.flac</a><br>
-</details><hr>
-<details>
-<hr>
 <summary>OneShot Soundtrack</summary>
 <a href="OneShot Soundtrack/IT'S TIME TO FIGHT CRIME.jpg">IT'S TIME TO FIGHT CRIME.jpg</a><br>
 <a href="OneShot Soundtrack/OneShot Soundtrack.png">OneShot Soundtrack.png</a><br>
 <a href="OneShot Soundtrack/Ram.jpg">Ram.jpg</a><br>
+<details>
+<hr>
+<summary>Solstice</summary>
+<a href="OneShot Soundtrack/Solstice/Happily Ever After.jpg">Happily Ever After.jpg</a><br>
+<a href="OneShot Soundtrack/Solstice/OneShot Solstice Soundtrack.png">OneShot Solstice Soundtrack.png</a><br>
+<a href="OneShot Soundtrack/Solstice/Prelude.flac">Prelude.flac</a><br>
+<a href="OneShot Soundtrack/Solstice/Deep Mines.flac">Deep Mines.flac</a><br>
+<a href="OneShot Soundtrack/Solstice/Vestige.flac">Vestige.flac</a><br>
+<a href="OneShot Soundtrack/Solstice/Sonder (extended).flac">Sonder (extended).flac</a><br>
+<a href="OneShot Soundtrack/Solstice/Out of Protocol.flac">Out of Protocol.flac</a><br>
+<a href="OneShot Soundtrack/Solstice/Panic.flac">Panic.flac</a><br>
+<a href="OneShot Soundtrack/Solstice/Collapse.flac">Collapse.flac</a><br>
+<a href="OneShot Soundtrack/Solstice/Navigate (extended).flac">Navigate (extended).flac</a><br>
+<a href="OneShot Soundtrack/Solstice/The FIrst Universe.flac">The FIrst Universe.flac</a><br>
+<a href="OneShot Soundtrack/Solstice/Aviator.flac">Aviator.flac</a><br>
+<a href="OneShot Soundtrack/Solstice/Eleventh hour.flac">Eleventh hour.flac</a><br>
+<a href="OneShot Soundtrack/Solstice/Rue.flac">Rue.flac</a><br>
+<a href="OneShot Soundtrack/Solstice/The Author.flac">The Author.flac</a><br>
+<a href="OneShot Soundtrack/Solstice/The World Machine.flac">The World Machine.flac</a><br>
+<a href="OneShot Soundtrack/Solstice/Encounter.flac">Encounter.flac</a><br>
+<a href="OneShot Soundtrack/Solstice/Solstice.flac">Solstice.flac</a><br>
+<a href="OneShot Soundtrack/Solstice/Sunrise.flac">Sunrise.flac</a><br>
+<a href="OneShot Soundtrack/Solstice/In Memory.flac">In Memory.flac</a><br>
+<a href="OneShot Soundtrack/Solstice/Epilogue.flac">Epilogue.flac</a><br>
+<a href="OneShot Soundtrack/Solstice/Homesick.flac">Homesick.flac</a><br>
+<a href="OneShot Soundtrack/Solstice/Inventory.flac">Inventory.flac</a><br>
+<a href="OneShot Soundtrack/Solstice/Simpler Secrets.flac">Simpler Secrets.flac</a><br>
+<a href="OneShot Soundtrack/Solstice/First Flight.flac">First Flight.flac</a><br>
+<a href="OneShot Soundtrack/Solstice/The Simulation.flac">The Simulation.flac</a><br>
+<a href="OneShot Soundtrack/Solstice/Ghost in the Machine.flac">Ghost in the Machine.flac</a><br>
+<a href="OneShot Soundtrack/Solstice/Happily Ever After.flac">Happily Ever After.flac</a><br>
+<a href="OneShot Soundtrack/Solstice/Niko's Theme.flac">Niko's Theme.flac</a><br>
+</details><hr>
 <a href="OneShot Soundtrack/My Burden Is Light.flac">My Burden Is Light.flac</a><br>
 <a href="OneShot Soundtrack/Someplace I Know.flac">Someplace I Know.flac</a><br>
 <a href="OneShot Soundtrack/Puzzle Solved.flac">Puzzle Solved.flac</a><br>
