@@ -162,9 +162,6 @@
 <details>
 <hr>
 <summary>OneShot Soundtrack</summary>
-<a href="OneShot Soundtrack/IT'S TIME TO FIGHT CRIME.jpg">IT'S TIME TO FIGHT CRIME.jpg</a><br>
-<a href="OneShot Soundtrack/OneShot Soundtrack.png">OneShot Soundtrack.png</a><br>
-<a href="OneShot Soundtrack/Ram.jpg">Ram.jpg</a><br>
 <details>
 <hr>
 <summary>Solstice</summary>
@@ -198,6 +195,9 @@
 <a href="OneShot Soundtrack/Solstice/Happily Ever After.flac">Happily Ever After.flac</a><br>
 <a href="OneShot Soundtrack/Solstice/Niko's Theme.flac">Niko's Theme.flac</a><br>
 </details><hr>
+<a href="OneShot Soundtrack/IT'S TIME TO FIGHT CRIME.jpg">IT'S TIME TO FIGHT CRIME.jpg</a><br>
+<a href="OneShot Soundtrack/OneShot Soundtrack.png">OneShot Soundtrack.png</a><br>
+<a href="OneShot Soundtrack/Ram.jpg">Ram.jpg</a><br>
 <a href="OneShot Soundtrack/My Burden Is Light.flac">My Burden Is Light.flac</a><br>
 <a href="OneShot Soundtrack/Someplace I Know.flac">Someplace I Know.flac</a><br>
 <a href="OneShot Soundtrack/Puzzle Solved.flac">Puzzle Solved.flac</a><br>
