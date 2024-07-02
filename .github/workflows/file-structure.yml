@@ -24,12 +24,20 @@ jobs:
             - name: Run script to update README
               run: node scripts/update_readme.mjs
 
-            - name: Commit and push changes
+            - name: Commit and push changes and trigger another workflow
               run: |
                   git config --global user.name 'ClaytonTDM'
                   git config --global user.email 'claytontdm@gmail.com'
                   git add README.md
                   git commit -m 'Update README with file structure'
                   git push
+                  
+                  # Trigger another workflow via GitHub API
+                  curl \
+                  -X POST \
+                  -H "Accept: application/vnd.github.v3+json" \
+                  -H "Authorization: token ${{ secrets.ACCESS_TOKEN }}" \
+                  https://api.github.com/repos/claytontdm/music/actions/workflows/jekyll-gh-pages.yml/dispatches \
+                  -d '{"ref":"main"}'
               env:
                   GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
