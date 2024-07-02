@@ -4,7 +4,7 @@ import path from 'path';
 import { parseFile } from 'music-metadata';
 import util from 'util';
 
-const EXCLUDED = new Set([".git", ".github", "scripts", "assets", "README.md", "_config.yml"]);
+const EXCLUDED = new Set([".git", ".github", "scripts", "assets", "README.md", "_config.yml", "node_modules"]);
 const AUDIO_EXTENSIONS = new Set([".mp3", ".flac", ".m4a", ".wav", ".ogg"]);
 
 const readdir = util.promisify(fs.readdir);
