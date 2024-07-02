@@ -13,16 +13,16 @@ jobs:
             - name: Checkout repository
               uses: actions/checkout@v2
 
-            - name: Set up Python
-              uses: actions/setup-python@v2
+            - name: Set up Node.js
+              uses: actions/setup-node@v2
               with:
-                  python-version: "3.x"
+                  node-version: "20"
 
             - name: Install dependencies
-              run: pip install mutagen
+              run: npm install music-metadata
 
             - name: Run script to update README
-              run: python scripts/update_readme.py
+              run: node scripts/update_readme.js
 
             - name: Commit and push changes
               run: |
@@ -32,4 +32,4 @@ jobs:
                   git commit -m 'Update README with file structure'
                   git push
               env:
-                  GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+                  GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
