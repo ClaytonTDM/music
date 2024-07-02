@@ -1,6 +1,5 @@
 import fs from 'fs';
 import path from 'path';
-// Corrected import statement for music-metadata
 import { parseFile } from 'music-metadata';
 import util from 'util';
 
@@ -31,8 +30,11 @@ async function generateFileStructure(basePath, currentPath = '') {
 
     const stats = await stat(fullPath);
     if (stats.isDirectory()) {
+        const directoryEntries = [];
+        const fileEntries = [];
+
         if (currentPath) { // Avoid root directory
-            result.push(`<details>\n<hr>\n<summary>${path.basename(currentPath)}</summary>`);
+            directoryEntries.push(`<details>\n<hr>\n<summary>${path.basename(currentPath)}</summary>`);
         }
 
         const items = await readdir(fullPath);
@@ -46,21 +48,24 @@ async function generateFileStructure(basePath, currentPath = '') {
             const itemStats = await stat(itemFullPath);
 
             if (itemStats.isDirectory()) {
-                result = result.concat(await generateFileStructure(basePath, itemPath));
+                const subDirectoryContent = await generateFileStructure(basePath, itemPath);
+                directoryEntries.push(...subDirectoryContent);
             } else if (AUDIO_EXTENSIONS.has(path.extname(item).toLowerCase())) {
                 const trackNumber = await getTrackNumber(itemFullPath);
-                result.push({ itemPath, trackNumber });
+                fileEntries.push({ itemPath, trackNumber });
             } else {
-                result.push(`<a href="${itemPath}">${item}</a><br>`);
+                fileEntries.push(`<a href="${itemPath}">${item}</a><br>`);
             }
         }
 
         // Sort and format audio files
-        const audioFiles = result.filter(item => typeof item === 'object');
+        const audioFiles = fileEntries.filter(item => typeof item === 'object');
         audioFiles.sort((a, b) => (a.trackNumber || Infinity) - (b.trackNumber || Infinity));
         audioFiles.forEach(file => {
-            result.push(`<a href="${file.itemPath}">${path.basename(file.itemPath)}</a><br>`);
+            fileEntries.push(`<a href="${file.itemPath}">${path.basename(file.itemPath)}</a><br>`);
         });
+
+        result = [...directoryEntries, ...fileEntries.filter(item => typeof item === 'string')]; // Combine directories first, then files
 
         if (currentPath) { // Avoid root directory
             result.push("</details><hr>");
@@ -68,7 +73,7 @@ async function generateFileStructure(basePath, currentPath = '') {
     } else {
         result.push(`<a href="${currentPath}">${path.basename(currentPath)}</a><br>`);
     }
-    return result.filter(item => typeof item === 'string'); // Filter out audio file objects
+    return result; // No need to filter out audio file objects anymore
 }
 
 async function updateReadme(fileStructure) {
