@@ -22,7 +22,7 @@ jobs:
               run: npm install music-metadata
 
             - name: Run script to update README
-              run: node scripts/update_readme.js
+              run: node scripts/update_readme.mjs
 
             - name: Commit and push changes
               run: |
