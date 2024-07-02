@@ -377,6 +377,4 @@
 <a href="Undertale Soundtrack/Megalovania.mp3">Megalovania.mp3</a><br>
 <a href="Undertale Soundtrack/Good Night.mp3">Good Night.mp3</a><br>
 </details><hr>
-<a href="package-lock.json">package-lock.json</a><br>
-<a href="package.json">package.json</a><br>
 <!-- files-end -->
