@@ -3,7 +3,8 @@
 
 @import "{{ site.theme }}";
 
-details {
+details,
+a.link {
     margin-left: 1em;
     cursor: pointer;
 }

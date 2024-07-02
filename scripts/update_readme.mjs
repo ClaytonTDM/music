@@ -54,7 +54,7 @@ async function generateFileStructure(basePath, currentPath = '') {
                 const trackNumber = await getTrackNumber(itemFullPath);
                 fileEntries.push({ itemPath, trackNumber });
             } else {
-                fileEntries.push(`<a href="${itemPath}">${item}</a><br>`);
+                fileEntries.push(`<a class="link" href="${itemPath}">${item}</a><br>`);
             }
         }
 
@@ -62,7 +62,7 @@ async function generateFileStructure(basePath, currentPath = '') {
         const audioFiles = fileEntries.filter(item => typeof item === 'object');
         audioFiles.sort((a, b) => (a.trackNumber || Infinity) - (b.trackNumber || Infinity));
         audioFiles.forEach(file => {
-            fileEntries.push(`<a href="${file.itemPath}">${path.basename(file.itemPath)}</a><br>`);
+            fileEntries.push(`<a class="link" href="${file.itemPath}">${path.basename(file.itemPath)}</a><br>`);
         });
 
         result = [...directoryEntries, ...fileEntries.filter(item => typeof item === 'string')]; // Combine directories first, then files
@@ -71,7 +71,7 @@ async function generateFileStructure(basePath, currentPath = '') {
             result.push("</details><hr>");
         }
     } else {
-        result.push(`<a href="${currentPath}">${path.basename(currentPath)}</a><br>`);
+        result.push(`<a class="link" href="${currentPath}">${path.basename(currentPath)}</a><br>`);
     }
     return result; // No need to filter out audio file objects anymore
 }
