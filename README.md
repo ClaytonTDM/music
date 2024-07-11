@@ -32,102 +32,98 @@
 <hr>
 <summary>Chapter 1</summary>
 <a class="link" href="Deltarune Soundtrack/Chapter 1/Deltarune Chapter 1 Soundtrack.png">Deltarune Chapter 1 Soundtrack.png</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/ANOTHER HIM.mp3">ANOTHER HIM.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Beginning.mp3">Beginning.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/School.mp3">School.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Susie.mp3">Susie.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/The Door.mp3">The Door.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Cliffs.mp3">Cliffs.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/The Chase.mp3">The Chase.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/The Legend.mp3">The Legend.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Lancer.mp3">Lancer.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Rude Buster.mp3">Rude Buster.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Empty Town.mp3">Empty Town.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Weird Birds.mp3">Weird Birds.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Field of Hopes and Dreams.mp3">Field of Hopes and Dreams.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Fanfare (From Rose of Winter).mp3">Fanfare (From Rose of Winter).mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Lantern.mp3">Lantern.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/I'm Very Bad.mp3">I'm Very Bad.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Checker Dance.mp3">Checker Dance.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Quiet Autumn.mp3">Quiet Autumn.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Scarlet Forest.mp3">Scarlet Forest.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Thrash Machine.mp3">Thrash Machine.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Vs. Lancer.mp3">Vs. Lancer.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Basement.mp3">Basement.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Imminent Death.mp3">Imminent Death.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Vs. Susie.mp3">Vs. Susie.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Card Castle.mp3">Card Castle.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Rouxls Kaard.mp3">Rouxls Kaard.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/April 2012.mp3">April 2012.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Hip Shop.mp3">Hip Shop.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Gallery.mp3">Gallery.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Chaos King.mp3">Chaos King.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Darkness Falls.mp3">Darkness Falls.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/The Circus.mp3">The Circus.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/THE WORLD REVOLVING.mp3">THE WORLD REVOLVING.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Friendship.mp3">Friendship.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/THE HOLY.mp3">THE HOLY.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Your Power.mp3">Your Power.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/A Town Called Hometown.mp3">A Town Called Hometown.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/You Can Always Come Home.mp3">You Can Always Come Home.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Don't Forget.mp3">Don't Forget.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Before the Story.mp3">Before the Story.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 1/Dogcheck.mp3">Dogcheck.mp3</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/ANOTHER HIM.flac">ANOTHER HIM.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Beginning.flac">Beginning.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/School.flac">School.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Susie.flac">Susie.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/The Door.flac">The Door.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Cliffs.flac">Cliffs.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/The Chase.flac">The Chase.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/The Legend.flac">The Legend.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Lancer.flac">Lancer.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Rude Buster.flac">Rude Buster.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Empty Town.flac">Empty Town.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Weird Birds.flac">Weird Birds.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Field of Hopes and Dreams.flac">Field of Hopes and Dreams.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Fanfare (from Rose of Winter).flac">Fanfare (from Rose of Winter).flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Lantern.flac">Lantern.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/I'm Very Bad.flac">I'm Very Bad.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Checker Dance.flac">Checker Dance.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Quiet Autumn.flac">Quiet Autumn.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Scarlet Forest.flac">Scarlet Forest.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Thrash Machine.flac">Thrash Machine.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Vs. Lancer.flac">Vs. Lancer.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Basement.flac">Basement.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Imminent Death.flac">Imminent Death.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Vs. Susie.flac">Vs. Susie.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Card Castle.flac">Card Castle.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Rouxls Kaard.flac">Rouxls Kaard.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/April 2012.flac">April 2012.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Hip Shop.flac">Hip Shop.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Gallery.flac">Gallery.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Chaos King.flac">Chaos King.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Darkness Falls.flac">Darkness Falls.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/The Circus.flac">The Circus.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/THE WORLD REVOLVING.flac">THE WORLD REVOLVING.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Friendship.flac">Friendship.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/THE HOLY.flac">THE HOLY.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Your Power.flac">Your Power.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/A Town Called Hometown.flac">A Town Called Hometown.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/You Can Always Come Home.flac">You Can Always Come Home.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Don't Forget.flac">Don't Forget.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 1/Before the Story.flac">Before the Story.flac</a><br>
 </details><hr>
 <details>
 <hr>
 <summary>Chapter 2</summary>
 <a class="link" href="Deltarune Soundtrack/Chapter 2/Deltarune Chapter 2 Soundtrack.png">Deltarune Chapter 2 Soundtrack.png</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Faint Glow.mp3">Faint Glow.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Girl Next Door.mp3">Girl Next Door.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/My Castle Town.mp3">My Castle Town.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Ohhhhohohoho!.mp3">Ohhhhohohoho!.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Queen.mp3">Queen.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/A CYBER'S WORLD.mp3">A CYBER'S WORLD.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/A Simple Diversion.mp3">A Simple Diversion.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Almost To The Guys!.mp3">Almost To The Guys!.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Cool Beat.mp3">Cool Beat.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/When I Get Mad I Dance Like This.mp3">When I Get Mad I Dance Like This.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Cyber Battle (Solo).mp3">Cyber Battle (Solo).mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/When I Get Happy I Dance Like This.mp3">When I Get Happy I Dance Like This.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Sound Studio.mp3">Sound Studio.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Berdly.mp3">Berdly.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Smart Race.mp3">Smart Race.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Faint Courage (Game Over).mp3">Faint Courage (Game Over).mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/WELCOME TO THE CITY.mp3">WELCOME TO THE CITY.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Mini Studio.mp3">Mini Studio.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Holiday Studio.mp3">Holiday Studio.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Cool Mixtape.mp3">Cool Mixtape.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/HEY EVERY !.mp3">HEY EVERY !.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Spamton.mp3">Spamton.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/NOW'S YOUR CHANCE TO BE A.mp3">NOW'S YOUR CHANCE TO BE A.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Elegant Enterance.mp3">Elegant Enterance.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Bluebird of Misfortune.mp3">Bluebird of Misfortune.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Pandora Palace.mp3">Pandora Palace.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/KEYGEN.mp3">KEYGEN.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Acid Tunnel of Love.mp3">Acid Tunnel of Love.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/It's Pronounced  Rules.mp3">It's Pronounced  Rules.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Lost Girl.mp3">Lost Girl.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Ferris Wheel.mp3">Ferris Wheel.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Attack of the Killer Queen.mp3">Attack of the Killer Queen.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Giga Size.mp3">Giga Size.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Powers Combined.mp3">Powers Combined.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Knock You Down !!.mp3">Knock You Down !!.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/The Dark Truth.mp3">The Dark Truth.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Digital Roots.mp3">Digital Roots.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Deal Gone Wrong.mp3">Deal Gone Wrong.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/BIG SHOT.mp3">BIG SHOT.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/A Real Boy!.mp3">A Real Boy!.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Dialtone.mp3">Dialtone.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/sans..mp3">sans..mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Chill Jailbreak Alarm to Study And Relax To.mp3">Chill Jailbreak Alarm to Study And Relax To.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/You Can Always Come Home.mp3">You Can Always Come Home.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Until Next Time.mp3">Until Next Time.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/A-pplause for Berdly.mp3">A-pplause for Berdly.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Berdly Battle (Really Tense Heartbeat Momento Version).mp3">Berdly Battle (Really Tense Heartbeat Momento Version).mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Cyber Battle.mp3">Cyber Battle.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/Determination.mp3">Determination.mp3</a><br>
-<a class="link" href="Deltarune Soundtrack/Chapter 2/WELCOME TO THE CITY (Alt).mp3">WELCOME TO THE CITY (Alt).mp3</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Faint Glow.flac">Faint Glow.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Girl Next Door.flac">Girl Next Door.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/My Castle Town.flac">My Castle Town.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Ohhhhohohoho!.flac">Ohhhhohohoho!.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Queen.flac">Queen.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/A CYBER'S WORLD?.flac">A CYBER'S WORLD?.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/A Simple Diversion.flac">A Simple Diversion.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Almost To The Guys!.flac">Almost To The Guys!.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Cool Beat.flac">Cool Beat.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/When I Get Mad I Dance Like This.flac">When I Get Mad I Dance Like This.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Cyber Battle (Solo).flac">Cyber Battle (Solo).flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/When I Get Happy I Dance Like This.flac">When I Get Happy I Dance Like This.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Sound Studio.flac">Sound Studio.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Berdly.flac">Berdly.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Smart Race.flac">Smart Race.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Faint Courage (Game Over).flac">Faint Courage (Game Over).flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/WELCOME TO THE CITY.flac">WELCOME TO THE CITY.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Mini Studio.flac">Mini Studio.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Holiday Studio.flac">Holiday Studio.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Cool Mixtape.flac">Cool Mixtape.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/HEY EVERY    !.flac">HEY EVERY    !.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Spamton.flac">Spamton.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/NOW'S YOUR CHANCE TO BE A.flac">NOW'S YOUR CHANCE TO BE A.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Elegant Entrance.flac">Elegant Entrance.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Bluebird of Misfortune.flac">Bluebird of Misfortune.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Pandora Palace.flac">Pandora Palace.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/KEYGEN.flac">KEYGEN.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Acid Tunnel of Love.flac">Acid Tunnel of Love.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/It's Pronounced "Rules".flac">It's Pronounced "Rules".flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Lost Girl.flac">Lost Girl.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Ferris Wheel.flac">Ferris Wheel.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Attack of the Killer Queen.flac">Attack of the Killer Queen.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Giga Size.flac">Giga Size.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Powers Combined.flac">Powers Combined.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Knock You Down !!.flac">Knock You Down !!.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/The Dark Truth.flac">The Dark Truth.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Digital Roots.flac">Digital Roots.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Deal Gone Wrong.flac">Deal Gone Wrong.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/BIG SHOT.flac">BIG SHOT.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/A Real Boy!.flac">A Real Boy!.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Dialtone.flac">Dialtone.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/sans..flac">sans..flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Chill Jailbreak Alarm To Study And Relax To.flac">Chill Jailbreak Alarm To Study And Relax To.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/You Can Always Come Home.flac">You Can Always Come Home.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Until Next Time.flac">Until Next Time.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Before The Story.flac">Before The Story.flac</a><br>
+<a class="link" href="Deltarune Soundtrack/Chapter 2/Berdly (Rejected Concept).flac">Berdly (Rejected Concept).flac</a><br>
 </details><hr>
 </details><hr>
 <details>
@@ -163,79 +159,79 @@
 <summary>Solstice</summary>
 <a class="link" href="OneShot Soundtrack/Solstice/Happily Ever After.jpg">Happily Ever After.jpg</a><br>
 <a class="link" href="OneShot Soundtrack/Solstice/OneShot Solstice Soundtrack.png">OneShot Solstice Soundtrack.png</a><br>
-<a class="link" href="OneShot Soundtrack/Solstice/Aviator.flac">Aviator.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Solstice/Collapse.flac">Collapse.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Solstice/Prelude.flac">Prelude.flac</a><br>
 <a class="link" href="OneShot Soundtrack/Solstice/Deep Mines.flac">Deep Mines.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Solstice/Eleventh hour.flac">Eleventh hour.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Solstice/Encounter.flac">Encounter.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Solstice/Epilogue.flac">Epilogue.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Solstice/First Flight.flac">First Flight.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Solstice/Ghost in the Machine.flac">Ghost in the Machine.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Solstice/Happily Ever After.flac">Happily Ever After.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Solstice/Homesick.flac">Homesick.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Solstice/In Memory.flac">In Memory.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Solstice/Inventory.flac">Inventory.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Solstice/Navigate (extended).flac">Navigate (extended).flac</a><br>
-<a class="link" href="OneShot Soundtrack/Solstice/Niko's Theme.flac">Niko's Theme.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Solstice/Vestige.flac">Vestige.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Solstice/Sonder (extended).flac">Sonder (extended).flac</a><br>
 <a class="link" href="OneShot Soundtrack/Solstice/Out of Protocol.flac">Out of Protocol.flac</a><br>
 <a class="link" href="OneShot Soundtrack/Solstice/Panic.flac">Panic.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Solstice/Prelude.flac">Prelude.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Solstice/Rue.flac">Rue.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Solstice/Simpler Secrets.flac">Simpler Secrets.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Solstice/Solstice.flac">Solstice.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Solstice/Sonder (extended).flac">Sonder (extended).flac</a><br>
-<a class="link" href="OneShot Soundtrack/Solstice/Sunrise.flac">Sunrise.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Solstice/The Author.flac">The Author.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Solstice/Collapse.flac">Collapse.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Solstice/Navigate (extended).flac">Navigate (extended).flac</a><br>
 <a class="link" href="OneShot Soundtrack/Solstice/The FIrst Universe.flac">The FIrst Universe.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Solstice/The Simulation.flac">The Simulation.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Solstice/Aviator.flac">Aviator.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Solstice/Eleventh hour.flac">Eleventh hour.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Solstice/Rue.flac">Rue.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Solstice/The Author.flac">The Author.flac</a><br>
 <a class="link" href="OneShot Soundtrack/Solstice/The World Machine.flac">The World Machine.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Solstice/Vestige.flac">Vestige.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Solstice/Encounter.flac">Encounter.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Solstice/Solstice.flac">Solstice.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Solstice/Sunrise.flac">Sunrise.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Solstice/In Memory.flac">In Memory.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Solstice/Epilogue.flac">Epilogue.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Solstice/Homesick.flac">Homesick.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Solstice/Inventory.flac">Inventory.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Solstice/Simpler Secrets.flac">Simpler Secrets.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Solstice/First Flight.flac">First Flight.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Solstice/The Simulation.flac">The Simulation.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Solstice/Ghost in the Machine.flac">Ghost in the Machine.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Solstice/Happily Ever After.flac">Happily Ever After.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Solstice/Niko's Theme.flac">Niko's Theme.flac</a><br>
 </details><hr>
 <a class="link" href="OneShot Soundtrack/IT'S TIME TO FIGHT CRIME.jpg">IT'S TIME TO FIGHT CRIME.jpg</a><br>
 <a class="link" href="OneShot Soundtrack/OneShot Soundtrack.png">OneShot Soundtrack.png</a><br>
 <a class="link" href="OneShot Soundtrack/Ram.jpg">Ram.jpg</a><br>
-<a class="link" href="OneShot Soundtrack/A God's Machine.flac">A God's Machine.flac</a><br>
+<a class="link" href="OneShot Soundtrack/My Burden Is Light.flac">My Burden Is Light.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Someplace I Know.flac">Someplace I Know.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Puzzle Solved.flac">Puzzle Solved.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Phosphor.flac">Phosphor.flac</a><br>
+<a class="link" href="OneShot Soundtrack/The Prophecy.flac">The Prophecy.flac</a><br>
 <a class="link" href="OneShot Soundtrack/Abandoned Factory.flac">Abandoned Factory.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Silverpoint.flac">Silverpoint.flac</a><br>
+<a class="link" href="OneShot Soundtrack/A God's Machine.flac">A God's Machine.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Rowbot.flac">Rowbot.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Geothermal.flac">Geothermal.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Distant.flac">Distant.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Into The Light.flac">Into The Light.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Self Contained Universe (Reprise).flac">Self Contained Universe (Reprise).flac</a><br>
+<a class="link" href="OneShot Soundtrack/Navigate.flac">Navigate.flac</a><br>
+<a class="link" href="OneShot Soundtrack/To Sleep.flac">To Sleep.flac</a><br>
+<a class="link" href="OneShot Soundtrack/To Dream.flac">To Dream.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Flooded Ruins.flac">Flooded Ruins.flac</a><br>
 <a class="link" href="OneShot Soundtrack/Alula.flac">Alula.flac</a><br>
 <a class="link" href="OneShot Soundtrack/Children of the Ruins.flac">Children of the Ruins.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Countdown.flac">Countdown.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Dark Stairwell.flac">Dark Stairwell.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Distant water.flac">Distant water.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Distant.flac">Distant.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Factory.flac">Factory.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Flooded Ruins.flac">Flooded Ruins.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Geothermal.flac">Geothermal.flac</a><br>
-<a class="link" href="OneShot Soundtrack/I'm Here.flac">I'm Here.flac</a><br>
-<a class="link" href="OneShot Soundtrack/IT'S TIME TO FIGHT CRIME.flac">IT'S TIME TO FIGHT CRIME.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Indoors.flac">Indoors.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Into The Light.flac">Into The Light.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Library Nap.flac">Library Nap.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Library Stroll.flac">Library Stroll.flac</a><br>
-<a class="link" href="OneShot Soundtrack/My Burden Is Light.flac">My Burden Is Light.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Navigate.flac">Navigate.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Niko and the World Machine.flac">Niko and the World Machine.flac</a><br>
-<a class="link" href="OneShot Soundtrack/On Little Cat Feet (ground).flac">On Little Cat Feet (ground).flac</a><br>
-<a class="link" href="OneShot Soundtrack/On Little Cat Feet.flac">On Little Cat Feet.flac</a><br>
-<a class="link" href="OneShot Soundtrack/OneShot Trailer.flac">OneShot Trailer.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Phosphor.flac">Phosphor.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Pretty Bad.flac">Pretty Bad.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Pretty nice day, huh....flac">Pretty nice day, huh....flac</a><br>
-<a class="link" href="OneShot Soundtrack/Pretty.flac">Pretty.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Puzzle Solved.flac">Puzzle Solved.flac</a><br>
 <a class="link" href="OneShot Soundtrack/Ram.flac">Ram.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Rowbot.flac">Rowbot.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Self Contained Universe (Reprise).flac">Self Contained Universe (Reprise).flac</a><br>
-<a class="link" href="OneShot Soundtrack/Self Contained Universe.flac">Self Contained Universe.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Silverpoint.flac">Silverpoint.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Simple Secrets.flac">Simple Secrets.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Someplace I Know.flac">Someplace I Know.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Pretty Bad.flac">Pretty Bad.flac</a><br>
+<a class="link" href="OneShot Soundtrack/On Little Cat Feet.flac">On Little Cat Feet.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Indoors.flac">Indoors.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Dark Stairwell.flac">Dark Stairwell.flac</a><br>
 <a class="link" href="OneShot Soundtrack/Sonder.flac">Sonder.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Sun.flac">Sun.flac</a><br>
-<a class="link" href="OneShot Soundtrack/Thanks For Everything.flac">Thanks For Everything.flac</a><br>
-<a class="link" href="OneShot Soundtrack/The Prophecy.flac">The Prophecy.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Pretty nice day, huh....flac">Pretty nice day, huh....flac</a><br>
+<a class="link" href="OneShot Soundtrack/On Little Cat Feet (ground).flac">On Little Cat Feet (ground).flac</a><br>
+<a class="link" href="OneShot Soundtrack/Library Stroll.flac">Library Stroll.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Simple Secrets.flac">Simple Secrets.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Factory.flac">Factory.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Library Nap.flac">Library Nap.flac</a><br>
 <a class="link" href="OneShot Soundtrack/The Tower.flac">The Tower.flac</a><br>
-<a class="link" href="OneShot Soundtrack/To Dream.flac">To Dream.flac</a><br>
-<a class="link" href="OneShot Soundtrack/To Sleep.flac">To Sleep.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Distant water.flac">Distant water.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Niko and the World Machine.flac">Niko and the World Machine.flac</a><br>
+<a class="link" href="OneShot Soundtrack/I'm Here.flac">I'm Here.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Pretty.flac">Pretty.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Sun.flac">Sun.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Self Contained Universe.flac">Self Contained Universe.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Thanks For Everything.flac">Thanks For Everything.flac</a><br>
+<a class="link" href="OneShot Soundtrack/OneShot Trailer.flac">OneShot Trailer.flac</a><br>
+<a class="link" href="OneShot Soundtrack/Countdown.flac">Countdown.flac</a><br>
+<a class="link" href="OneShot Soundtrack/IT'S TIME TO FIGHT CRIME.flac">IT'S TIME TO FIGHT CRIME.flac</a><br>
 </details><hr>
 <details>
 <hr>
@@ -243,29 +239,29 @@
 <details>
 <hr>
 <summary>Normal-Horde Variants</summary>
-<a class="link" href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Grasswalk (Horde).flac">Grasswalk (Horde).flac</a><br>
 <a class="link" href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Grasswalk (Normal).flac">Grasswalk (Normal).flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Grasswalk (Horde).flac">Grasswalk (Horde).flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Watery Graves (Normal).flac">Watery Graves (Normal).flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Watery Graves (Horde).flac">Watery Graves (Horde).flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Rigor Mormist (Normal).flac">Rigor Mormist (Normal).flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Rigor Mormist (Horde).flac">Rigor Mormist (Horde).flac</a><br>
 <a class="link" href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Graze the Roof (Horde).flac">Graze the Roof (Horde).flac</a><br>
 <a class="link" href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Graze the Roof (Normal).flac">Graze the Roof (Normal).flac</a><br>
-<a class="link" href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Rigor Mormist (Horde).flac">Rigor Mormist (Horde).flac</a><br>
-<a class="link" href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Rigor Mormist (Normal).flac">Rigor Mormist (Normal).flac</a><br>
-<a class="link" href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Watery Graves (Horde).flac">Watery Graves (Horde).flac</a><br>
-<a class="link" href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Watery Graves (Normal).flac">Watery Graves (Normal).flac</a><br>
 </details><hr>
 <a class="link" href="Plants vs. Zombies Soundtrack/Plants vs. Zombies Soundtrack.jpg">Plants vs. Zombies Soundtrack.jpg</a><br>
-<a class="link" href="Plants vs. Zombies Soundtrack/Brainiac Maniac.flac">Brainiac Maniac.flac</a><br>
-<a class="link" href="Plants vs. Zombies Soundtrack/Cerebrawl.flac">Cerebrawl.flac</a><br>
-<a class="link" href="Plants vs. Zombies Soundtrack/Choose Your Seeds.flac">Choose Your Seeds.flac</a><br>
 <a class="link" href="Plants vs. Zombies Soundtrack/Crazy Dave (Intro Theme).flac">Crazy Dave (Intro Theme).flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Choose Your Seeds.flac">Choose Your Seeds.flac</a><br>
 <a class="link" href="Plants vs. Zombies Soundtrack/Grasswalk.flac">Grasswalk.flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Moongrains.flac">Moongrains.flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Moongrains (Horde).flac">Moongrains (Horde).flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Watery Graves.flac">Watery Graves.flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Rigor Mormist.flac">Rigor Mormist.flac</a><br>
 <a class="link" href="Plants vs. Zombies Soundtrack/Graze the Roof.flac">Graze the Roof.flac</a><br>
 <a class="link" href="Plants vs. Zombies Soundtrack/Loonboon.flac">Loonboon.flac</a><br>
-<a class="link" href="Plants vs. Zombies Soundtrack/Moongrains (Horde).flac">Moongrains (Horde).flac</a><br>
-<a class="link" href="Plants vs. Zombies Soundtrack/Moongrains.flac">Moongrains.flac</a><br>
-<a class="link" href="Plants vs. Zombies Soundtrack/Rigor Mormist.flac">Rigor Mormist.flac</a><br>
-<a class="link" href="Plants vs. Zombies Soundtrack/Ultimate Battle.flac">Ultimate Battle.flac</a><br>
-<a class="link" href="Plants vs. Zombies Soundtrack/Watery Graves.flac">Watery Graves.flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Cerebrawl.flac">Cerebrawl.flac</a><br>
 <a class="link" href="Plants vs. Zombies Soundtrack/Zen Garden.flac">Zen Garden.flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Ultimate Battle.flac">Ultimate Battle.flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Brainiac Maniac.flac">Brainiac Maniac.flac</a><br>
 </details><hr>
 <details>
 <hr>
