@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <script src="tailwind.js"></script>
+        <link rel="stylesheet" href="style.css" />
+        <title>Loading...</title>
+    </head>
+    <body>
+        <div
+            class="container rounded-xl shadow-2xl border-solid border-2 border-[color:var(--bg-colour-3)] hidden"
+            id="container"
+        >
+            <!-- blurred background -->
+            <div class="bg rounded-xl">
+                <div class="bgCover w-full h-full opacity-60"></div>
+                <div class="w-full h-full opacity-45"></div>
+            </div>
+            <!-- album art -->
+            <div class="album-art">
+                <img
+                    alt=""
+                    class="rounded-2xl w-72 ml-auto mr-auto mt-12 shadow-2xl art transition-all scale-100 duration-300 ease-out"
+                    id="art"
+                />
+            </div>
+            <div name="seperator">&nbsp;</div>
+            <!-- track + artist name + album name -->
+            <div class="track-name text-center mt-4">
+                <h1 id="title" class="font-semibold text-white">Title</h1>
+                <h2 id="artist" class="text-stone-400 text-sm">Artist</h2>
+                <h2 id="album" class="text-stone-400 text-sm">Album</h2>
+            </div>
+            <!-- audio player (just use the default one from the browser) -->
+            <audio
+                src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
+                controls
+                class="mt-5 mx-4"
+                id="audio"
+            ></audio>
+        </div>
+        <p
+            class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 font-semibold"
+            id="loader"
+        >
+            Downloading...
+        </p>
+        <script src="script.js"></script>
+    </body>
+</html>

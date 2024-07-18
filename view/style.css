@@ -1,0 +1,57 @@
+:root {
+    color-scheme: dark;
+    --bg-colour: #242424;
+    --bg-colour-2: #242424;
+    --bg-colour-3: #393939;
+    --width: 450px;
+    --height: 540px;
+    --blur: 40px;
+}
+
+* {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    z-index: 9999;
+    position: relative;
+}
+
+body {
+    height: 100vh !important;
+    max-width: 100vw !important;
+    background: var(--bg-colour);
+}
+
+.container {
+    max-width: var(--width) !important;
+    height: var(--height) !important;
+    overflow: hidden;
+    position: absolute;
+    background-color: var(--bg-colour-2);
+    z-index: 1 !important;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+}
+
+.bg {
+    background-color: var(--bg-colour);
+    width: var(--width);
+    height: var(--height);
+    background-size: 100% 100%;
+    filter: blur(var(--blur));
+    position: absolute;
+    overflow: hidden;
+    z-index: 2 !important;
+}
+
+.bgCover {
+    background-color: var(--bg-colour);
+    z-index: 3 !important;
+}
+
+audio {
+    width: calc(100% - 32px);
+}
+
+.scaleUp {
+    scale: 1.1;
+}
