@@ -9,11 +9,11 @@
     </head>
     <body>
         <div
-            class="container rounded-xl shadow-2xl border-solid border-2 border-[color:var(--bg-colour-3)] hidden"
+            class="container rounded-xl shadow-2xl border-solid border-2 border-[color:var(--bg-colour-3)] hidden overflow-hidden absolute"
             id="container"
         >
             <!-- blurred background -->
-            <div class="bg rounded-xl">
+            <div class="bg rounded-xl overflow-hidden absolute">
                 <div class="bgCover w-full h-full opacity-60"></div>
                 <div class="w-full h-full opacity-45"></div>
             </div>
@@ -36,7 +36,7 @@
             <audio
                 src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
                 controls
-                class="mt-5 mx-4"
+                class="mt-5 absolute left-1/2"
                 id="audio"
             ></audio>
         </div>

@@ -23,8 +23,6 @@ body {
 .container {
     max-width: var(--width) !important;
     height: var(--height) !important;
-    overflow: hidden;
-    position: absolute;
     background-color: var(--bg-colour-2);
     z-index: 1 !important;
     top: 50%;
@@ -38,8 +36,6 @@ body {
     height: var(--height);
     background-size: 100% 100%;
     filter: blur(var(--blur));
-    position: absolute;
-    overflow: hidden;
     z-index: 2 !important;
 }
 
@@ -49,7 +45,8 @@ body {
 }
 
 audio {
-    width: calc(100% - 32px);
+    width: calc(100% - 42px);
+    transform: translateX(-50%);
 }
 
 .scaleUp {
