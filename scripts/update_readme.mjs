@@ -1,9 +1,29 @@
-import fs from 'fs';
-import path from 'path';
-import { parseFile } from 'music-metadata';
-import util from 'util';
+import fs from "fs";
+import path from "path";
+import { parseFile } from "music-metadata";
+import util from "util";
 
-const EXCLUDED = new Set([".git", ".github", "scripts", "assets", "README.md", "_config.yml", "node_modules", "package.json", "package-lock.json", "yarn.lock", "pnpm-lock.yaml", "LICENSE", "CNAME", ".gitignore", ".gitattributes", ".editorconfig", ".prettierrc.json", ".vscode", "view"]);
+const EXCLUDED = new Set([
+    ".git",
+    ".github",
+    "scripts",
+    "assets",
+    "README.md",
+    "_config.yml",
+    "node_modules",
+    "package.json",
+    "package-lock.json",
+    "yarn.lock",
+    "pnpm-lock.yaml",
+    "LICENSE",
+    "CNAME",
+    ".gitignore",
+    ".gitattributes",
+    ".editorconfig",
+    ".prettierrc.json",
+    ".vscode",
+    "view",
+]);
 const AUDIO_EXTENSIONS = new Set([".mp3", ".flac", ".m4a", ".wav", ".ogg"]);
 
 const readdir = util.promisify(fs.readdir);
@@ -20,7 +40,7 @@ async function getTrackNumber(filePath) {
     }
 }
 
-async function generateFileStructure(basePath, currentPath = '') {
+async function generateFileStructure(basePath, currentPath = "") {
     let result = [];
     const fullPath = path.join(basePath, currentPath);
 
@@ -33,13 +53,19 @@ async function generateFileStructure(basePath, currentPath = '') {
         const directoryEntries = [];
         const fileEntries = [];
 
-        if (currentPath) { // Avoid root directory
-            directoryEntries.push(`<details>\n<hr>\n<summary>${path.basename(currentPath)}</summary>`);
+        if (currentPath) {
+            // Avoid root directory
+            directoryEntries.push(
+                `<details>\n<hr>\n<summary>${path.basename(
+                    currentPath
+                )}</summary>`
+            );
         }
 
         const items = await readdir(fullPath);
         for (const item of items) {
-            if (EXCLUDED.has(item)) { // Skip excluded files
+            if (EXCLUDED.has(item)) {
+                // Skip excluded files
                 continue;
             }
 
@@ -48,45 +74,70 @@ async function generateFileStructure(basePath, currentPath = '') {
             const itemStats = await stat(itemFullPath);
 
             if (itemStats.isDirectory()) {
-                const subDirectoryContent = await generateFileStructure(basePath, itemPath);
+                const subDirectoryContent = await generateFileStructure(
+                    basePath,
+                    itemPath
+                );
                 directoryEntries.push(...subDirectoryContent);
             } else if (AUDIO_EXTENSIONS.has(path.extname(item).toLowerCase())) {
                 const trackNumber = await getTrackNumber(itemFullPath);
                 fileEntries.push({ itemPath, trackNumber });
             } else {
-                fileEntries.push(`<a class="link" href="${itemPath}">${item}</a><br>`);
+                fileEntries.push(
+                    `<a class="link" href="${itemPath}">${item}</a><br>`
+                );
             }
         }
 
         // Sort and format audio files
-        const audioFiles = fileEntries.filter(item => typeof item === 'object');
-        audioFiles.sort((a, b) => (a.trackNumber || Infinity) - (b.trackNumber || Infinity));
-        audioFiles.forEach(file => {
-            fileEntries.push(`<a class="link" href="${file.itemPath}">${path.basename(file.itemPath)}</a><br>`);
+        const audioFiles = fileEntries.filter(
+            (item) => typeof item === "object"
+        );
+        audioFiles.sort(
+            (a, b) => (a.trackNumber || Infinity) - (b.trackNumber || Infinity)
+        );
+        audioFiles.forEach((file) => {
+            fileEntries.push(
+                `<a class="link" href="${file.itemPath}">${path.basename(
+                    file.itemPath
+                )}</a><br>`
+            );
         });
 
-        result = [...directoryEntries, ...fileEntries.filter(item => typeof item === 'string')]; // Combine directories first, then files
+        result = [
+            ...directoryEntries,
+            ...fileEntries.filter((item) => typeof item === "string"),
+        ]; // Combine directories first, then files
 
-        if (currentPath) { // Avoid root directory
+        if (currentPath) {
+            // Avoid root directory
             result.push("</details><hr>");
         }
     } else {
-        result.push(`<a class="link" href="${currentPath}">${path.basename(currentPath)}</a><br>`);
+        result.push(
+            `<a class="link" href="${currentPath}">${path.basename(
+                currentPath
+            )}</a><br>`
+        );
     }
     return result; // No need to filter out audio file objects anymore
 }
 
 async function updateReadme(fileStructure) {
     const readmePath = "README.md";
-    const lines = fs.readFileSync(readmePath, 'utf8').split('\n');
+    const lines = fs.readFileSync(readmePath, "utf8").split("\n");
 
     const startTag = "<!-- files -->";
     const endTag = "<!-- files-end -->";
     const startIdx = lines.indexOf(startTag) + 1;
     const endIdx = lines.indexOf(endTag);
 
-    const newLines = [...lines.slice(0, startIdx), ...fileStructure, ...lines.slice(endIdx)];
-    fs.writeFileSync(readmePath, newLines.join('\n'));
+    const newLines = [
+        ...lines.slice(0, startIdx),
+        ...fileStructure,
+        ...lines.slice(endIdx),
+    ];
+    fs.writeFileSync(readmePath, newLines.join("\n"));
 }
 
 async function main() {
