@@ -28,6 +28,11 @@ trackAlbum.innerHTML = album;
 albumArt.src = art;
 bg.style.backgroundImage = `url('${art}')`;
 audio.src = path;
+// create favicon and set it to the album art
+const favicon = document.createElement("link");
+favicon.rel = "icon";
+favicon.href = art;
+document.head.appendChild(favicon);
 // add hidden to loader and remove hidden from container
 loader.classList.add("hidden");
 container.classList.remove("hidden");
