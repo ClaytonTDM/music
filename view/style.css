@@ -46,7 +46,6 @@ body {
 
 audio {
     width: calc(100% - 42px);
-    transform: translateX(-50%);
 }
 
 .scaleUp {
