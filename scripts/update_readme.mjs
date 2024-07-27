@@ -84,7 +84,7 @@ async function generateFileStructure(basePath, currentPath = "") {
                 fileEntries.push({ itemPath, trackNumber });
             } else {
                 fileEntries.push(
-                    `<a class="link" href="${itemPath}">${item}</a><br>`
+                    `<a class="link" href="${encodeURIComponent(itemPath)}">${item}</a><br>`
                 );
             }
         }
@@ -98,7 +98,7 @@ async function generateFileStructure(basePath, currentPath = "") {
         );
         audioFiles.forEach((file) => {
             fileEntries.push(
-                `<a class="link" href="${file.itemPath}">${path.basename(
+                `<a class="link" href="${encodeURIComponent(file.itemPath)}">${path.basename(
                     file.itemPath
                 )}</a><br>`
             );
@@ -115,7 +115,7 @@ async function generateFileStructure(basePath, currentPath = "") {
         }
     } else {
         result.push(
-            `<a class="link" href="${currentPath}">${path.basename(
+            `<a class="link" href="${encodeURIComponent(currentPath)}">${path.basename(
                 currentPath
             )}</a><br>`
         );
