@@ -150,7 +150,6 @@
 <a class="link" href="Doors Original Soundtrack/Volume 2/Unhinged II.mp3">Unhinged II.mp3</a><br>
 <a class="link" href="Doors Original Soundtrack/Volume 2/Elevator Jammed.mp3">Elevator Jammed.mp3</a><br>
 </details><hr>
-<a class="link" href="Doors Original Soundtrack/a">a</a><br>
 </details><hr>
 <details>
 <hr>
@@ -270,108 +269,108 @@
 </details><hr>
 <details>
 <hr>
-<summary>Undertale Soundtrack</summary>
-<a class="link" href="Undertale Soundtrack/Undertale Soundtrack.png">Undertale Soundtrack.png</a><br>
-<a class="link" href="Undertale Soundtrack/Once Upon A Time.mp3">Once Upon A Time.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Start Menu.mp3">Start Menu.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Your Best Friend.mp3">Your Best Friend.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Fallen Down.mp3">Fallen Down.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Ruins.mp3">Ruins.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Uwa!! So Temperate♫.mp3">Uwa!! So Temperate♫.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Anticipation.mp3">Anticipation.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Unnecessary Tension.mp3">Unnecessary Tension.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Enemy Approaching.mp3">Enemy Approaching.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Ghost Fight.mp3">Ghost Fight.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Determination.mp3">Determination.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Home.mp3">Home.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Home (Music Box).mp3">Home (Music Box).mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Heartache.mp3">Heartache.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/sans.mp3">sans.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Nyeh Heh Heh!.mp3">Nyeh Heh Heh!.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Snowy.mp3">Snowy.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Uwa!! So Holiday♫.mp3">Uwa!! So Holiday♫.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Dogbass.mp3">Dogbass.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Mysterious Place.mp3">Mysterious Place.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Dogsong.mp3">Dogsong.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Snowdin Town.mp3">Snowdin Town.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Shop.mp3">Shop.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Bonetrousle.mp3">Bonetrousle.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Dating Start!.mp3">Dating Start!.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Dating Tense!.mp3">Dating Tense!.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Dating Fight!.mp3">Dating Fight!.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Premonition.mp3">Premonition.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Danger Mystery.mp3">Danger Mystery.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Undyne.mp3">Undyne.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Waterfall.mp3">Waterfall.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Run!.mp3">Run!.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Quiet Water.mp3">Quiet Water.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Memory.mp3">Memory.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Bird That Carries You Over A Disproportionately Small Gap.mp3">Bird That Carries You Over A Disproportionately Small Gap.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Dummy!.mp3">Dummy!.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Pathetic House.mp3">Pathetic House.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Spooktune.mp3">Spooktune.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Spookwave.mp3">Spookwave.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Ghouliday.mp3">Ghouliday.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Chill.mp3">Chill.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Thundersnail.mp3">Thundersnail.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Temmie Village.mp3">Temmie Village.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Tem Shop.mp3">Tem Shop.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/NGAHHH!!.mp3">NGAHHH!!.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Spear of Justice.mp3">Spear of Justice.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Ooo.mp3">Ooo.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Alphys.mp3">Alphys.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/It's Showtime!.mp3">It's Showtime!.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Metal Crusher.mp3">Metal Crusher.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Another Medium.mp3">Another Medium.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Uwa!! So HEATS!!♫.mp3">Uwa!! So HEATS!!♫.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Stronger Monsters.mp3">Stronger Monsters.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Hotel.mp3">Hotel.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Can You Really Call This A Hotel, I Didn't Receive A Mint On My Pillow Or Anything.mp3">Can You Really Call This A Hotel, I Didn't Receive A Mint On My Pillow Or Anything.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Confession.mp3">Confession.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Live Report.mp3">Live Report.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Death Report.mp3">Death Report.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Spider Dance.mp3">Spider Dance.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Wrong Enemy !-.mp3">Wrong Enemy !-.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Oh! One True Love.mp3">Oh! One True Love.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Oh! Dungeon.mp3">Oh! Dungeon.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/It's Raining Somewhere Else.mp3">It's Raining Somewhere Else.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/CORE Approach.mp3">CORE Approach.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/CORE.mp3">CORE.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Last Episode!.mp3">Last Episode!.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Oh My.mp3">Oh My.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Death by Glamour.mp3">Death by Glamour.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/For the Fans.mp3">For the Fans.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Long Elevator.mp3">Long Elevator.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Undertale.mp3">Undertale.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Song That Might Play When You Fight Sans.mp3">Song That Might Play When You Fight Sans.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/The Choice.mp3">The Choice.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Small Shock.mp3">Small Shock.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Barrier.mp3">Barrier.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Bergentrückung.mp3">Bergentrückung.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/ASGORE.mp3">ASGORE.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/You Idiot.mp3">You Idiot.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Your Best Nightmare.mp3">Your Best Nightmare.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Finale.mp3">Finale.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/An Ending.mp3">An Ending.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/She's Playing Piano.mp3">She's Playing Piano.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Here We Are.mp3">Here We Are.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Amalgam.mp3">Amalgam.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Fallen Down (Reprise).mp3">Fallen Down (Reprise).mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Don't Give Up.mp3">Don't Give Up.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Hopes and Dreams.mp3">Hopes and Dreams.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Burn in Despair!.mp3">Burn in Despair!.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/SAVE the World.mp3">SAVE the World.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/His Theme.mp3">His Theme.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Final Power.mp3">Final Power.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Reunited.mp3">Reunited.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Menu (Full).mp3">Menu (Full).mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Respite.mp3">Respite.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Bring It In, Guys!.mp3">Bring It In, Guys!.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Last Goodbye.mp3">Last Goodbye.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/But the Earth Refused to Die.mp3">But the Earth Refused to Die.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Battle Against a True Hero.mp3">Battle Against a True Hero.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Power of -NEO-.mp3">Power of -NEO-.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Megalovania.mp3">Megalovania.mp3</a><br>
-<a class="link" href="Undertale Soundtrack/Good Night.mp3">Good Night.mp3</a><br>
+<summary>UNDERTALE Soundtrack</summary>
+<a class="link" href="UNDERTALE Soundtrack/UNDERTALE Soundtrack.png">UNDERTALE Soundtrack.png</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Once Upon A Time.mp3">Once Upon A Time.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Start Menu.mp3">Start Menu.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Your Best Friend.mp3">Your Best Friend.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Fallen Down.mp3">Fallen Down.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Ruins.mp3">Ruins.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Uwa!! So Temperate♫.mp3">Uwa!! So Temperate♫.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Anticipation.mp3">Anticipation.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Unnecessary Tension.mp3">Unnecessary Tension.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Enemy Approaching.mp3">Enemy Approaching.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Ghost Fight.mp3">Ghost Fight.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Determination.mp3">Determination.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Home.mp3">Home.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Home (Music Box).mp3">Home (Music Box).mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Heartache.mp3">Heartache.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/sans.mp3">sans.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Nyeh Heh Heh!.mp3">Nyeh Heh Heh!.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Snowy.mp3">Snowy.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Uwa!! So Holiday♫.mp3">Uwa!! So Holiday♫.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Dogbass.mp3">Dogbass.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Mysterious Place.mp3">Mysterious Place.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Dogsong.mp3">Dogsong.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Snowdin Town.mp3">Snowdin Town.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Shop.mp3">Shop.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Bonetrousle.mp3">Bonetrousle.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Dating Start!.mp3">Dating Start!.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Dating Tense!.mp3">Dating Tense!.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Dating Fight!.mp3">Dating Fight!.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Premonition.mp3">Premonition.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Danger Mystery.mp3">Danger Mystery.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Undyne.mp3">Undyne.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Waterfall.mp3">Waterfall.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Run!.mp3">Run!.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Quiet Water.mp3">Quiet Water.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Memory.mp3">Memory.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Bird That Carries You Over A Disproportionately Small Gap.mp3">Bird That Carries You Over A Disproportionately Small Gap.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Dummy!.mp3">Dummy!.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Pathetic House.mp3">Pathetic House.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Spooktune.mp3">Spooktune.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Spookwave.mp3">Spookwave.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Ghouliday.mp3">Ghouliday.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Chill.mp3">Chill.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Thundersnail.mp3">Thundersnail.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Temmie Village.mp3">Temmie Village.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Tem Shop.mp3">Tem Shop.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/NGAHHH!!.mp3">NGAHHH!!.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Spear of Justice.mp3">Spear of Justice.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Ooo.mp3">Ooo.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Alphys.mp3">Alphys.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/It's Showtime!.mp3">It's Showtime!.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Metal Crusher.mp3">Metal Crusher.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Another Medium.mp3">Another Medium.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Uwa!! So HEATS!!♫.mp3">Uwa!! So HEATS!!♫.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Stronger Monsters.mp3">Stronger Monsters.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Hotel.mp3">Hotel.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Can You Really Call This A Hotel, I Didn't Receive A Mint On My Pillow Or Anything.mp3">Can You Really Call This A Hotel, I Didn't Receive A Mint On My Pillow Or Anything.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Confession.mp3">Confession.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Live Report.mp3">Live Report.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Death Report.mp3">Death Report.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Spider Dance.mp3">Spider Dance.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Wrong Enemy !-.mp3">Wrong Enemy !-.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Oh! One True Love.mp3">Oh! One True Love.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Oh! Dungeon.mp3">Oh! Dungeon.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/It's Raining Somewhere Else.mp3">It's Raining Somewhere Else.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/CORE Approach.mp3">CORE Approach.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/CORE.mp3">CORE.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Last Episode!.mp3">Last Episode!.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Oh My.mp3">Oh My.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Death by Glamour.mp3">Death by Glamour.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/For the Fans.mp3">For the Fans.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Long Elevator.mp3">Long Elevator.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Undertale.mp3">Undertale.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Song That Might Play When You Fight Sans.mp3">Song That Might Play When You Fight Sans.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/The Choice.mp3">The Choice.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Small Shock.mp3">Small Shock.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Barrier.mp3">Barrier.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Bergentrückung.mp3">Bergentrückung.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/ASGORE.mp3">ASGORE.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/You Idiot.mp3">You Idiot.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Your Best Nightmare.mp3">Your Best Nightmare.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Finale.mp3">Finale.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/An Ending.mp3">An Ending.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/She's Playing Piano.mp3">She's Playing Piano.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Here We Are.mp3">Here We Are.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Amalgam.mp3">Amalgam.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Fallen Down (Reprise).mp3">Fallen Down (Reprise).mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Don't Give Up.mp3">Don't Give Up.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Hopes and Dreams.mp3">Hopes and Dreams.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Burn in Despair!.mp3">Burn in Despair!.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/SAVE the World.mp3">SAVE the World.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/His Theme.mp3">His Theme.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Final Power.mp3">Final Power.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Reunited.mp3">Reunited.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Menu (Full).mp3">Menu (Full).mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Respite.mp3">Respite.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Bring It In, Guys!.mp3">Bring It In, Guys!.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Last Goodbye.mp3">Last Goodbye.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/But the Earth Refused to Die.mp3">But the Earth Refused to Die.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Battle Against a True Hero.mp3">Battle Against a True Hero.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Power of -NEO-.mp3">Power of -NEO-.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Megalovania.mp3">Megalovania.mp3</a><br>
+<a class="link" href="UNDERTALE Soundtrack/Good Night.mp3">Good Night.mp3</a><br>
 </details><hr>
 <!-- files-end -->
