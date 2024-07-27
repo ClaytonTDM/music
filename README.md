@@ -236,32 +236,36 @@
 <details>
 <hr>
 <summary>Plants vs. Zombies Soundtrack</summary>
-<details>
-<hr>
-<summary>Normal-Horde Variants</summary>
-<a class="link" href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Grasswalk (Normal).flac">Grasswalk (Normal).flac</a><br>
-<a class="link" href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Grasswalk (Horde).flac">Grasswalk (Horde).flac</a><br>
-<a class="link" href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Watery Graves (Normal).flac">Watery Graves (Normal).flac</a><br>
-<a class="link" href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Watery Graves (Horde).flac">Watery Graves (Horde).flac</a><br>
-<a class="link" href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Rigor Mormist (Normal).flac">Rigor Mormist (Normal).flac</a><br>
-<a class="link" href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Rigor Mormist (Horde).flac">Rigor Mormist (Horde).flac</a><br>
-<a class="link" href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Graze the Roof (Horde).flac">Graze the Roof (Horde).flac</a><br>
-<a class="link" href="Plants vs. Zombies Soundtrack/Normal-Horde Variants/Graze the Roof (Normal).flac">Graze the Roof (Normal).flac</a><br>
-</details><hr>
-<a class="link" href="Plants vs. Zombies Soundtrack/Plants vs. Zombies Soundtrack.jpg">Plants vs. Zombies Soundtrack.jpg</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Plants vs. Zombies Original Soundtrack.png">Plants vs. Zombies Original Soundtrack.png</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Crazy Dave's Greeting.flac">Crazy Dave's Greeting.flac</a><br>
 <a class="link" href="Plants vs. Zombies Soundtrack/Crazy Dave (Intro Theme).flac">Crazy Dave (Intro Theme).flac</a><br>
 <a class="link" href="Plants vs. Zombies Soundtrack/Choose Your Seeds.flac">Choose Your Seeds.flac</a><br>
 <a class="link" href="Plants vs. Zombies Soundtrack/Grasswalk.flac">Grasswalk.flac</a><br>
-<a class="link" href="Plants vs. Zombies Soundtrack/Moongrains.flac">Moongrains.flac</a><br>
-<a class="link" href="Plants vs. Zombies Soundtrack/Moongrains (Horde).flac">Moongrains (Horde).flac</a><br>
-<a class="link" href="Plants vs. Zombies Soundtrack/Watery Graves.flac">Watery Graves.flac</a><br>
-<a class="link" href="Plants vs. Zombies Soundtrack/Rigor Mormist.flac">Rigor Mormist.flac</a><br>
-<a class="link" href="Plants vs. Zombies Soundtrack/Graze the Roof.flac">Graze the Roof.flac</a><br>
 <a class="link" href="Plants vs. Zombies Soundtrack/Loonboon.flac">Loonboon.flac</a><br>
-<a class="link" href="Plants vs. Zombies Soundtrack/Cerebrawl.flac">Cerebrawl.flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Moongrains.flac">Moongrains.flac</a><br>
 <a class="link" href="Plants vs. Zombies Soundtrack/Zen Garden.flac">Zen Garden.flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Watery Graves (slow).flac">Watery Graves (slow).flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Watery Graves (fast).flac">Watery Graves (fast).flac</a><br>
 <a class="link" href="Plants vs. Zombies Soundtrack/Ultimate Battle.flac">Ultimate Battle.flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Rigor Mormist.flac">Rigor Mormist.flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Cerebrawl.flac">Cerebrawl.flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Graze the Roof.flac">Graze the Roof.flac</a><br>
 <a class="link" href="Plants vs. Zombies Soundtrack/Brainiac Maniac.flac">Brainiac Maniac.flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Zombies On Your Lawn.flac">Zombies On Your Lawn.flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Zombotany (unreleased track).flac">Zombotany (unreleased track).flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Uraniwa ni Zombies ga!.flac">Uraniwa ni Zombies ga!.flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Crazy Dave (in game).flac">Crazy Dave (in game).flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Choose Your Seeds (in game).flac">Choose Your Seeds (in game).flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Grasswalk (in game).flac">Grasswalk (in game).flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Loonboon (in game).flac">Loonboon (in game).flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Moongrains (in game).flac">Moongrains (in game).flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Zen Garden (in game).flac">Zen Garden (in game).flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Watery Graves (in game).flac">Watery Graves (in game).flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Ultimate Battle (in game).flac">Ultimate Battle (in game).flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Rigor Mormist (in game).flac">Rigor Mormist (in game).flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Cerebrawl (in game).flac">Cerebrawl (in game).flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Graze the Roof (in game).flac">Graze the Roof (in game).flac</a><br>
+<a class="link" href="Plants vs. Zombies Soundtrack/Brainiac Maniac (in game).flac">Brainiac Maniac (in game).flac</a><br>
 </details><hr>
 <details>
 <hr>
