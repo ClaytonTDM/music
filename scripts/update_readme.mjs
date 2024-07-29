@@ -6,23 +6,18 @@ import util from "util";
 const EXCLUDED = new Set([
     ".git",
     ".github",
-    "scripts",
+    ".vscode",
     "assets",
-    "README.md",
-    "_config.yml",
     "node_modules",
+    "scripts",
+    "view",
+    "_config.yml",
+    ".gitignore",
+    "desktop.ini",
     "package.json",
     "package-lock.json",
-    "yarn.lock",
     "pnpm-lock.yaml",
-    "LICENSE",
-    "CNAME",
-    ".gitignore",
-    ".gitattributes",
-    ".editorconfig",
-    ".prettierrc.json",
-    ".vscode",
-    "view",
+    "README.md"
 ]);
 const AUDIO_EXTENSIONS = new Set([".mp3", ".flac", ".m4a", ".wav", ".ogg"]);
 
@@ -120,7 +115,7 @@ async function generateFileStructure(basePath, currentPath = "") {
             )}</a><br>`
         );
     }
-    return result; // No need to filter out audio file objects anymore
+    return result;
 }
 
 async function updateReadme(fileStructure) {
