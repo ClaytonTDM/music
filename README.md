@@ -124,7 +124,6 @@
 <a class="link" href="DELTARUNE%20OST%2FChapter%202%2FUntil%20Next%20Time.flac">Until Next Time.flac</a><br>
 <a class="link" href="DELTARUNE%20OST%2FChapter%202%2FBefore%20The%20Story.flac">Before The Story.flac</a><br>
 <a class="link" href="DELTARUNE%20OST%2FChapter%202%2FBerdly%20(Rejected%20Concept).flac">Berdly (Rejected Concept).flac</a><br>
-<a class="link" href="DELTARUNE%20OST%2FChapter%202%2FKEYGEN%20(SPAMTON%20SWEEPSTAKES).flac">KEYGEN (SPAMTON SWEEPSTAKES).flac</a><br>
 </details><hr>
 </details><hr>
 <details>
