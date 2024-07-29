@@ -82,7 +82,7 @@
 <a class="link" href="DELTARUNE%20OST%2FChapter%202%2FMy%20Castle%20Town.flac">My Castle Town.flac</a><br>
 <a class="link" href="DELTARUNE%20OST%2FChapter%202%2FOhhhhohohoho!.flac">Ohhhhohohoho!.flac</a><br>
 <a class="link" href="DELTARUNE%20OST%2FChapter%202%2FQueen.flac">Queen.flac</a><br>
-<a class="link" href="DELTARUNE%20OST%2FChapter%202%2FA%20CYBER'S%20WORLD_.flac">A CYBER'S WORLD_.flac</a><br>
+<a class="link" href="DELTARUNE%20OST%2FChapter%202%2FA%20CYBER'S%20WORLD%3F.flac">A CYBER'S WORLD?.flac</a><br>
 <a class="link" href="DELTARUNE%20OST%2FChapter%202%2FA%20Simple%20Diversion.flac">A Simple Diversion.flac</a><br>
 <a class="link" href="DELTARUNE%20OST%2FChapter%202%2FAlmost%20To%20The%20Guys!.flac">Almost To The Guys!.flac</a><br>
 <a class="link" href="DELTARUNE%20OST%2FChapter%202%2FCool%20Beat.flac">Cool Beat.flac</a><br>
@@ -105,7 +105,7 @@
 <a class="link" href="DELTARUNE%20OST%2FChapter%202%2FPandora%20Palace.flac">Pandora Palace.flac</a><br>
 <a class="link" href="DELTARUNE%20OST%2FChapter%202%2FKEYGEN.flac">KEYGEN.flac</a><br>
 <a class="link" href="DELTARUNE%20OST%2FChapter%202%2FAcid%20Tunnel%20of%20Love.flac">Acid Tunnel of Love.flac</a><br>
-<a class="link" href="DELTARUNE%20OST%2FChapter%202%2FIt's%20Pronounced%20_Rules_.flac">It's Pronounced _Rules_.flac</a><br>
+<a class="link" href="DELTARUNE%20OST%2FChapter%202%2FIt's%20Pronounced%20%22Rules%22.flac">It's Pronounced "Rules".flac</a><br>
 <a class="link" href="DELTARUNE%20OST%2FChapter%202%2FLost%20Girl.flac">Lost Girl.flac</a><br>
 <a class="link" href="DELTARUNE%20OST%2FChapter%202%2FFerris%20Wheel.flac">Ferris Wheel.flac</a><br>
 <a class="link" href="DELTARUNE%20OST%2FChapter%202%2FAttack%20of%20the%20Killer%20Queen.flac">Attack of the Killer Queen.flac</a><br>
