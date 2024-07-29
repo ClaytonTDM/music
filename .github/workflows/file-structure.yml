@@ -19,10 +19,13 @@ jobs:
                   node-version: "20"
 
             - name: Install dependencies
-              run: npm install music-metadata
+              run: npm install music-metadata prettier
 
             - name: Run script to update README
               run: node scripts/update_readme.mjs
+
+            - name: Run Prettier on README.md
+              run: npx prettier --write README.md --parser html --tab-width 4
 
             - name: Commit and push changes and trigger another workflow
               run: |
@@ -31,7 +34,7 @@ jobs:
                   git add README.md
                   git commit -m 'Update README with file structure'
                   git push
-                  
+
                   # Trigger another workflow via GitHub API
                   curl \
                   -X POST \
