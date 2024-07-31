@@ -564,6 +564,41 @@
         ><br />
     </details>
     <hr />
+    <details>
+        <hr />
+        <summary>Volume 3</summary>
+        <a
+            class="link"
+            href="Doors%20Original%20Soundtrack%2FVolume%203%2FDusk%20Of%20The%20Doors.mp3"
+            >Dusk Of The Doors.mp3</a
+        ><br />
+        <a
+            class="link"
+            href="Doors%20Original%20Soundtrack%2FVolume%203%2FElevator%20Jam%20(April%20Fools).mp3"
+            >Elevator Jam (April Fools).mp3</a
+        ><br />
+        <a
+            class="link"
+            href="Doors%20Original%20Soundtrack%2FVolume%203%2FElevator%20Jam%20(Retro%20Mode).mp3"
+            >Elevator Jam (Retro Mode).mp3</a
+        ><br />
+        <a
+            class="link"
+            href="Doors%20Original%20Soundtrack%2FVolume%203%2FJeffs%20Jingle%20Remix.mp3"
+            >Jeffs Jingle Remix.mp3</a
+        ><br />
+        <a
+            class="link"
+            href="Doors%20Original%20Soundtrack%2FVolume%203%2FMake%20Haste.mp3"
+            >Make Haste.mp3</a
+        ><br />
+        <a
+            class="link"
+            href="Doors%20Original%20Soundtrack%2FVolume%203%2FSeek%20Merch%20Trailer%20Theme.mp3"
+            >Seek Merch Trailer Theme.mp3</a
+        ><br />
+    </details>
+    <hr />
 </details>
 <hr />
 <details>
