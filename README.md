@@ -488,38 +488,38 @@
 <hr />
 <details>
     <hr />
-    <summary>Doors Original Soundtrack</summary>
+    <summary>DOORS Original Game Soundtrack</summary>
     <details>
         <hr />
         <summary>Volume 1</summary>
         <a
             class="link"
-            href="Doors%20Original%20Soundtrack%2FVolume%201%2FDoors%20(Original%20Game%20Soundtrack)%20Vol.%201.png"
-            >Doors (Original Game Soundtrack) Vol. 1.png</a
+            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%201%2FDOORS%20(Original%20Game%20Soundtrack)%2C%20Vol.%201.png"
+            >DOORS (Original Game Soundtrack), Vol. 1.png</a
         ><br />
         <a
             class="link"
-            href="Doors%20Original%20Soundtrack%2FVolume%201%2FDawn%20Of%20The%20Doors.mp3"
+            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%201%2FDawn%20Of%20The%20Doors.mp3"
             >Dawn Of The Doors.mp3</a
         ><br />
         <a
             class="link"
-            href="Doors%20Original%20Soundtrack%2FVolume%201%2FElevator%20Jam.mp3"
+            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%201%2FElevator%20Jam.mp3"
             >Elevator Jam.mp3</a
         ><br />
         <a
             class="link"
-            href="Doors%20Original%20Soundtrack%2FVolume%201%2FGuiding%20Light.mp3"
+            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%201%2FGuiding%20Light.mp3"
             >Guiding Light.mp3</a
         ><br />
         <a
             class="link"
-            href="Doors%20Original%20Soundtrack%2FVolume%201%2FHere%20I%20Come.mp3"
+            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%201%2FHere%20I%20Come.mp3"
             >Here I Come.mp3</a
         ><br />
         <a
             class="link"
-            href="Doors%20Original%20Soundtrack%2FVolume%201%2FUnhinged.mp3"
+            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%201%2FUnhinged.mp3"
             >Unhinged.mp3</a
         ><br />
     </details>
@@ -529,37 +529,37 @@
         <summary>Volume 2</summary>
         <a
             class="link"
-            href="Doors%20Original%20Soundtrack%2FVolume%202%2FDoors%20(Original%20Game%20Soundtrack)%20Vol.%202.png"
-            >Doors (Original Game Soundtrack) Vol. 2.png</a
+            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%202%2FDOORS%20(Original%20Game%20Soundtrack)%2C%20Vol.%202.png"
+            >DOORS (Original Game Soundtrack), Vol. 2.png</a
         ><br />
         <a
             class="link"
-            href="Doors%20Original%20Soundtrack%2FVolume%202%2FTrailer%20Theme%20Remix.mp3"
+            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%202%2FTrailer%20Theme%20Remix.mp3"
             >Trailer Theme Remix.mp3</a
         ><br />
         <a
             class="link"
-            href="Doors%20Original%20Soundtrack%2FVolume%202%2FElevator%20Jam%20Remix.mp3"
+            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%202%2FElevator%20Jam%20Remix.mp3"
             >Elevator Jam Remix.mp3</a
         ><br />
         <a
             class="link"
-            href="Doors%20Original%20Soundtrack%2FVolume%202%2FCurious%20Light.mp3"
+            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%202%2FCurious%20Light.mp3"
             >Curious Light.mp3</a
         ><br />
         <a
             class="link"
-            href="Doors%20Original%20Soundtrack%2FVolume%202%2FJeff's%20Jingle.mp3"
+            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%202%2FJeff's%20Jingle.mp3"
             >Jeff's Jingle.mp3</a
         ><br />
         <a
             class="link"
-            href="Doors%20Original%20Soundtrack%2FVolume%202%2FUnhinged%20II.mp3"
+            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%202%2FUnhinged%20II.mp3"
             >Unhinged II.mp3</a
         ><br />
         <a
             class="link"
-            href="Doors%20Original%20Soundtrack%2FVolume%202%2FElevator%20Jammed.mp3"
+            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%202%2FElevator%20Jammed.mp3"
             >Elevator Jammed.mp3</a
         ><br />
     </details>
@@ -569,33 +569,38 @@
         <summary>Volume 3</summary>
         <a
             class="link"
-            href="Doors%20Original%20Soundtrack%2FVolume%203%2FDusk%20Of%20The%20Doors.mp3"
+            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%203%2FDOORS%20(Original%20Game%20Soundtrack)%2C%20Vol.%203.png"
+            >DOORS (Original Game Soundtrack), Vol. 3.png</a
+        ><br />
+        <a
+            class="link"
+            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%203%2FDusk%20Of%20The%20Doors.mp3"
             >Dusk Of The Doors.mp3</a
         ><br />
         <a
             class="link"
-            href="Doors%20Original%20Soundtrack%2FVolume%203%2FElevator%20Jam%20(April%20Fools).mp3"
-            >Elevator Jam (April Fools).mp3</a
-        ><br />
-        <a
-            class="link"
-            href="Doors%20Original%20Soundtrack%2FVolume%203%2FElevator%20Jam%20(Retro%20Mode).mp3"
-            >Elevator Jam (Retro Mode).mp3</a
-        ><br />
-        <a
-            class="link"
-            href="Doors%20Original%20Soundtrack%2FVolume%203%2FJeffs%20Jingle%20Remix.mp3"
+            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%203%2FJeffs%20Jingle%20Remix.mp3"
             >Jeffs Jingle Remix.mp3</a
         ><br />
         <a
             class="link"
-            href="Doors%20Original%20Soundtrack%2FVolume%203%2FMake%20Haste.mp3"
+            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%203%2FMake%20Haste.mp3"
             >Make Haste.mp3</a
         ><br />
         <a
             class="link"
-            href="Doors%20Original%20Soundtrack%2FVolume%203%2FSeek%20Merch%20Trailer%20Theme.mp3"
+            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%203%2FSeek%20Merch%20Trailer%20Theme.mp3"
             >Seek Merch Trailer Theme.mp3</a
+        ><br />
+        <a
+            class="link"
+            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%203%2FElevator%20Jam%20(Retro%20Mode).mp3"
+            >Elevator Jam (Retro Mode).mp3</a
+        ><br />
+        <a
+            class="link"
+            href="DOORS%20Original%20Game%20Soundtrack%2FVolume%203%2FElevator%20Jam%20(April%20Fools).mp3"
+            >Elevator Jam (April Fools).mp3</a
         ><br />
     </details>
     <hr />
