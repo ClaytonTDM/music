@@ -1030,6 +1030,20 @@
 <hr />
 <details>
     <hr />
+    <summary>Radio Silent</summary>
+    <a class="link" href="Radio%20Silent%2FRadio%20Silent.png"
+        >Radio Silent.png</a
+    ><br />
+    <a class="link" href="Radio%20Silent%2FRadio%20Silent.flac"
+        >Radio Silent.flac</a
+    ><br />
+    <a class="link" href="Radio%20Silent%2FRadio%20Silent%20VIP.flac"
+        >Radio Silent VIP.flac</a
+    ><br />
+</details>
+<hr />
+<details>
+    <hr />
     <summary>UNDERTALE Soundtrack</summary>
     <a class="link" href="UNDERTALE%20Soundtrack%2FUNDERTALE%20Soundtrack.png"
         >UNDERTALE Soundtrack.png</a
